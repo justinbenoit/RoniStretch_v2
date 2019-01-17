@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<styleSheet>css/styleSheet.css</styleSheet>
+	
+	<audio>
+		<rollover1>audio/rollover1.mp3</rollover1>
+		<rollover2>audio/rollover2.mp3</rollover2>
+		<click>audio/click.mp3</click>
+	</audio>
+	
+	<splash>
+		<!--<image>11.figure no.20, archival pigment print, 30x40 inches, edition of 11, '08..jpg</image>
+		<image>1.Carbon beach no.1, archive pigment print, 36x48, edition 11, '02..jpg</image>
+		<image>claritza, archival pigment print, 48x60 inches, '04..jpg</image>
+		<image>12.big bear, paynes grey, lamp black no.36, oil on canvas, 48x60 inches, '04.jpg</image>-->
+		<image>splash.jpg</image>
+		<entersite>enter site</entersite>
+		<text><![CDATA[<i><font size="13">Roni Stretch's career path exemplifies how California has attracted a growing number of international artists in recent years. His technique displays a formidable grasp of his medium – oil – that is unusually nuanced and sophisticated, and yet his distinctive large scale portraits also betray a connection to the media – fueled culture that is specific to Southern California. The idea of process – the painstaking execution that transpires over long periods of time, is central to the understanding and appreciation of Stretch’s ambitious oeuvre.</font></i><br/><br/><font size="12">- Wesley Jessup  Executive Director,<br/>  Pasadena Museum of California Art</font>]]></text>
+	</splash>
+	
+	<navigation>
+		<colors>
+			<normal>0xD0CFCF</normal>
+			<rollover>0x779CA8</rollover>
+			<selected>0xFFFFFF</selected>
+		</colors>
+		
+		<link name="work" 					section="sectionWork" 		visible="true">work
+			<link name="paintings" 			section="paintings"			visible="true">paintings
+				<link name="oiloncanvas" 	section="oiloncanvas"		visible="true">oil on canvas</link>
+				<link name="oilonpaper" 	section="oilonpaper"		visible="true">oil on paper</link>
+				<link name="underpainting" 	section="underpainting"		visible="true">underpainting</link>
+				<link name="salon" 			section="salon"				visible="true">salon</link>
+			</link>
+			<link name="photography" 		section="photography"		visible="true">photography
+				<link name="portrait" 		section="portrait" 			visible="true">portrait</link>
+				<link name="carbon_beach" 	section="carbonbeach" 		visible="true">carbon beach</link>
+				<link name="joshuatree" 	section="joshuatree" 		visible="true">joshua tree</link>
+				<link name="fire" 			section="fire"				visible="true">fire</link>
+				<link name="figure" 		section="figure"			visible="true">figure</link>
+			</link>
+			<link name="bigbear" 			section="bigbear"			visible="true">big bear
+				<!--<link name="explanation" 	section="explanation" 		visible="true">explanation</link>-->
+				<link name="paintings" 		section="paintings"			visible="true">paintings</link>
+			</link>
+		</link>
+		<link name="biography" 				section="sectionBiography" 		visible="true">biography
+			<link name="roni"				section="roni">roni</link>
+			<link name="education"			section="education">education</link>
+			<link name="soloshows"			section="soloshows">solo shows</link>
+			<link name="groupshows"			section="groupshows">group shows</link>
+			<link name="specialprojects"	section="specialprojects">special projects</link>
+			<link name="publiccorporatecollections"	section="publiccorporatecollections">public collections</link>
+			<link name="privatecollections"	section="privatecollections">private collections</link>
+			<link name="bibliography"		section="bibliography">bibliography</link>
+		</link>
+		<link name="reviews"				section="sectionBiography"		visible="true">selected reviews
+			<link name="latimesarticle"		section="latimesarticle">la times article</link>	
+			<link name="dichromaticsreview"	section="dichromaticsreview">dichromatics review</link>
+			<link name="portraitsreview"	section="portraitsreview">portraits review</link>
+		</link>
+		<!--<link name="green_center" 	section="sectionGreenCenter" 	visible="true">green center</link>-->
+		<link name="contact" 				section="sectionContact" 		visible="true">contact</link>
+		<link name="links" 					section="sectionLinks" 			visible="true">links</link>
+	</navigation>
+	
+	<landing folder="images/">
+		<image text="gallery c, los angeles,  2005">gallery c, los angeles,  2005.jpg</image>
+	</landing>
+	
+	<work>
+		<paintings>
+			<oiloncanvas folder="images/1.oil on canvas_ linen/">
+				<image text=""><![CDATA[STATEMENT
+The language of the paintings is about the dialogue between the process and the surface. The emotional experience, the visual structure. Always about the observation, not the appearance. The very act of seeing changes what is seen. The synthesis between figurative and abstraction. Painting about limitless possibilities of paint and the relationship of the artist to the very act of making it. Creativity and curiosity, the reconciliation of opposites, where humanity starts within a history of progress and setbacks. This is the world today.
+
+DICHROISM
+The property whereby a substance exhibits two different hues or color effects when viewed under different circumstances. Thin Ice and Titanium white, for instance, are examples of oil colors where hues show a marked difference when seen by reflected light and when spread out in a thin layer and viewed by transmitted light. Another example is the property of some oil colors to display a different visual or color effect when brushed vertically than when brushed horizontally on the same area of the canvas.]]></image>
+				<image text="Gallery C, Los Angeles, 2004">1.Gallery C, Los Angeles, 2004.jpg</image>
+				<image text="Gallery C, LA, (oils on canvas_linen '05).">2. Gallery C, LA, (oils on canvas_linen '05)..jpg</image>
+				<image text="Gallery C, LA, (oils on linen, 60x80 inches,'05).">3. GalleryC, LA, (oils on linen, 60x80 inches,'05)..jpg</image>
+				<!--<image text="installation, all oils on linen, 60x80 inches '05">4. installation, all oils on linen, 60x80 inches '05.jpg</image>-->
+				<image text="Gallery C, LA.- (Buddha series, 60x48 inches and 52x44 inches oils on canvas '05)">5. Gallery C, LA.- (Buddha series, 60x48 inches and 52x44 inches oils on canvas '05).jpg</image>
+				<!--<image text="Peyton Wright, Santa Fe, NM, (oil on canvas,'06)">6. Peyton Wright, Santa Fe, NM, (oil on canvas,'06).jpg</image>
+				<image text="Peyton Wright, Santa Fe, NM, (oil on canvas_paper,'06)">7. Peyton Wright, Santa Fe, NM, (oil on canvas_paper,'06).jpg</image>
+				<image text="Studio'08">8. Studio'08.jpg</image>
+				<image text="Old faithful">1.Old faithful.jpg</image>-->
+				<image text="Claritza, naphthol crimson, chrome orange deep(hue). oil on linen 60x56 inches '04.  collection of Pasadena Museum of California Art. Pasadena CA.">1a. Claritza, naphthol crimson, chrome orange deep(hue). oil on linen 60x56 inches '04. collection of Pasadena Museum of California Art. Pasadena CA..jpg</image>
+				<image text="Julia,paynes grey,prussian blue 34x40 inches, oil on linen inches'08. private collection Los Angeles.">2. Julia,paynes grey,prussian blue 34x40 inches, oil on linen inches'08. private collection Los Angeles..jpg</image>
+				<image text="Ron, sap green, tapestry red, oil on linen, 60x48 inches '05.collection of artist.">3. Ron, sap green, tapestry red, oil on linen, 60x48 inches '05.collection of artist..jpg</image>
+				<image text="Mannequin, paynes grey, prussian blue, oil on canvas 34x40 inches '02. private collection Los Angeles.">4.Mannequin, paynes grey, prussian blue, oil on canvas 34x40 inches '02. private collection Los Angeles..jpg</image>
+				<image text="Mannequin, paynes grey, grey amethyst. oil on canvas 34x40 inches '02. collection of artist">5.Mannequin, paynes grey, grey amethyst. oil on canvas 34x40 inches '02. collection of artist.jpg</image>
+				<image text="Figure,paynes grey pebble,oil on linen, 34x40 inches,'08.private collection New York.">6. Figure,paynes grey pebble,oil on linen, 34x40 inches,'08.private collection New York..jpg</image>
+				<image text="Figure, paynes grey, pebble. Oil on canvas_linen 34x40 inches,'08. private collection Los Angeles.">7. Figure, paynes grey, pebble. Oil on canvas_linen 34x40 inches,'08. private collection Los Angeles..jpg</image>
+				<image text="Figure,titanium white, sage green, oil on canvas_burlap 65x68 inches '08.private collection La Jolla, California">8.Figure,titanium white, sage green, oil on canvas_burlap 65x68 inches '08.private collection La Jolla, California.jpg</image>
+				<image text="Figure,paynes grey,orange,chrome, 34x40 inches, oil on linen inches'08.private collection Los Angeles.">9. Figure,paynes grey,orange,chrome, 34x40 inches, oil on linen inches'08.private collection Los Angeles..jpg</image>
+				<image text="Julia,chrome orange deep(hue), grey pearl.oil on canvas, 60x54 inches '05.private collection Los Angeles">10. Julia,chrome orange deep(hue), grey pearl.oil on canvas, 60x54 inches '05.private collection Los Angeles.jpg</image>
+				<image text="Jaime, raw sienna, grey pearl.oil on canvas_burlap, 60x54 inches '08.private collection Los Angeles.">11. Jaime, raw sienna, grey pearl.oil on canvas_burlap, 60x54 inches '08.private collection Los Angeles..jpg</image>
+				<image text="Sara, titanium white, sap green, 60x54 inches, oil on linen. '04.">12.Sara, titanium white, sap green, 60x54 inches, oil on linen. '04..jpg</image>
+				<image text="Sara,sap green, prussian blue, oil on linen, 42x48 inches '10. collection of artist">13.Sara,sap green, prussian blue, oil on linen, 42x48 inches '10. collection of artist.jpg</image>
+				<image text="Claritza,sap green, prussian blue, oil on linen, 42x48 inches '10. collection of artist">14. Claritza,sap green, prussian blue, oil on linen, 42x48 inches '10. collection of artist.jpg</image>
+				<image text="Catherine, naphthol crimson, tapestry red, oil on canvas, 48x60 inches,'08">15.Catherine, naphthol crimson, tapestry red, oil on canvas, 48x60 inches,'08.jpg</image>
+				<image text="Catherine, chrome orange (hue), paynes grey, 80x60 inches, oil on canvas_burlap,'09.">16.Catherine, chrome orange (hue), paynes grey, 80x60 inches, oil on canvas_burlap,'09..jpg</image>
+				<image text="Brandenburg sap green,prussian blue 34x40 inches, oil on linen inches'10, collection of artist.">17.brandenberg sap green,prussian blue 34x40 inches, oil on linen inches'10, collection of artist..jpg</image>
+				<image text="Brandenburg, naphthol crimson, tapestry red. 40x34inches '06. private collection Sun Valley, ID.">18. Brandenburg, naphthol crimson, tapestry red. 40x34inches '06. private collection Sun Valley, ID..jpg</image>
+				<image text="Brandenburg, naphthol crimson, tapestry red. 40 x34 inches '06. private collection Sydney Australia.">19.Brandenburg, naphthol crimson, tapestry red. 40 x34 inches '06. private collection Sydney Australia..jpg</image>
+				<image text="Brandenburg, paynes grey, vineyard no,1. 50x50 inches '06.">20. Brandenburg, paynes grey, vineyard no,1. 50x50 inches '06..jpg</image>
+				<image text="Brandenburg, paynes grey, vineyard.no.2 50x50 inches '06.">21. Brandenburg, paynes grey, vineyard.no.2 50x50 inches '06..jpg</image>
+				<image text="Shan Buddha,titanium white,ivory.oil on canvas 50x60 inches, '08.">22.Shan Buddha,titanium white,ivory.oil on canvas 50x60 inches, '08..jpg</image>
+				<image text="Shan Buddha, paynes grey, colbalt blue, oil on canvas, 54x60 inches.'09 private collection Los Angeles.">23.Shan Buddha, paynes grey, colbalt blue, oil on canvas, 54x60 inches.'09 private collection Los Angeles..jpg</image>
+				<image text="Shan Buddha,raw sienna,classic burgundy, oil on canvas, 48x60 inches,'04. private collection San Juan, Puerto Rico">24. Shan Buddha,raw sienna,classic burgundy, oil on canvas, 48x60 inches,'04. private collection San Juan, Puerto Rico.jpg</image>
+				<image text="Shan Buddha, paynes grey, sap green, oil on canvas, 36x48 inches,'08. collection of artist">25.Shan Buddha, paynes grey, sap green, oil on canvas, 36x48 inches,'08. collection of artist.jpg</image>
+				<image text="Seascape, prussian blue no.1, lamp black, oil on canvas 22x28 inches,'09">26.Seascape, prussian blue no.1, lamp black, oil on canvas 22x28 inches,'09.jpg</image>
+				<image text="Seascape, prussian blue, lamp black no.2, oil on canvas 22x28 inches,'09">27.Seascape, prussian blue, lamp black no.2, oil on canvas 22x28 inches,'09.jpg</image>
+			</oiloncanvas>
+			
+			<oilonpaper folder="images/2.oil on paper/">
+				<image text="Fire, naphthol crimson, tapestry red,oil on arches 140lb cold press paper, '09.">1.Fire, naphthol crimson, tapestry red,oil on arches 140lb cold press paper, '09..jpg</image>
+				<image text="Arnaud, prussian blue,cheboyaan blue. 24x16 inches oil on Arches 140lb (cold press) paper '06. private collection Asheville North Carolina.">2. Arnaud, prussian blue,cheboyaan blue. 24x16 inches oil on Arches 140lb (cold press) paper '06. private collection Asheville North Carolina..jpg</image>
+				<image text="Claritza, prussian blue, lamp black. 24x16 inches oil on Arches 140lb (cold press) paper '02. LA Museum of Contemporary Art, S and R gallery."><![CDATA[3. Claritza, prussian blue, lamp black. 24x16 inches oil on Arches 140lb (cold press) paper '02. LA Museum of Contemporary Art, S&R gallery..jpg]]></image>
+				<image text="Sara,prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07. private collection Los Angeles">4. Sara,prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07. private collection Los Angeles.jpg</image>
+				<image text="Catherine, prussian blue, lamp black. 22x30 inches oil on Arches 140lb (cold press) paper '07. collection of artist.">5. Catherine, prussian blue, lamp black. 22x30 inches oil on Arches 140lb (cold press) paper '07. collection of artist..jpg</image>
+				<image text="Daisy, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '09. private collection Miami Florida.">6. Daisy, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '09. private collection Miami Florida..jpg</image>
+				<image text="WC, prussian blue, lamp black. 24x16 inches oil on Arches 140lb (cold press) paper '09. private collection Los Angeles.">7. WC, prussian blue, lamp black. 24x16 inches oil on Arches 140lb (cold press) paper '09. private collection Los Angeles..jpg</image>
+				<image text="Shan Buddha, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '08. collection of artist.">8. Shan Buddha, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '08. collection of artist..jpg</image>
+				<image text="Seascape, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07. private collection Los Angeles.">9. Seascape, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07. private collection Los Angeles..jpg</image>
+				<image text="Seascape, prussian blue, coal blue. 22x16 inches oil on Arches 140lb (cold press) paper '07.collection of the Museum of California Design, Los Angeles">10. Seascape, prussian blue, coal blue. 22x16 inches oil on Arches 140lb (cold press) paper '07.collection of the Museum of California Design, Los Angeles.jpg</image>
+				<image text="Seascape, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07.">11. Seascape, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07..jpg</image>
+				<image text="Seascape, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07.">12. Seascape, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07..jpg</image>
+				<image text="Seascape, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07.">13. Seascape, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07..jpg</image>
+				<image text="JC, paynes grey, yellow ochre, 24x16 inches oil on Arches 140lb (cold press) paper '09. private collection Los Angeles.">14. JC, paynes grey, yellow ochre, 24x16 inches oil on Arches 140lb (cold press) paper '09. private collection Los Angeles..jpg</image>
+				<image text="15. Brandenburg,prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '06.">15. Brandenburg,prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '06..jpg</image>
+				<image text="Brandenburg,naphthol crimson, tapestry red 24x16 inches oil on Arches 140lb (cold press) paper '06. private collection Sun Valley ID.">16. Brandenburg,naphthol crimson, tapestry red 24x16 inches oil on Arches 140lb (cold press) paper '06. private collection Sun Valley ID..jpg</image>
+				<image text="Brandenburg,prussian blue, raw sienna. 24x16 inches oil on Arches 140lb (cold press) paper '06. private collection New York.">17. Brandenburg,prussian blue, raw sienna. 24x16 inches oil on Arches 140lb (cold press) paper '06. private collection New York..jpg</image>
+				<image text="Fire no.2, naphthol crimson, tapestry red, 24x12 inches oil on Arches 140lb (cold press) paper, collection of artist '09.">18. Fire no.2, naphthol crimson, tapestry red, 24x12 inches oil on Arches 140lb (cold press) paper, collection of artist '09..jpg</image>
+				<image text="Fire no.5, cobalt violet, tapestry red, 24x12 inches oil on Arches 140lb (cold press) paper, collection of artist '09.">19. Fire no.5, cobalt violet, tapestry red, 24x12 inches oil on Arches 140lb (cold press) paper, collection of artist '09..jpg</image>
+				<image text="Figure, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '09.">19.Figure, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '09..jpg</image>
+			</oilonpaper>
+			
+			<underpainting folder="images/3.under_paintings/">
+				<image text="Studio, works in progress '10.">1.Studio, works in progress '10..jpg</image>
+				<image text="Ron, underpainting oil on canvas,( in progress) 48x60 inches,'04. collection of artist.">2.Ron, underpainting oil on canvas,( in progress) 48x60 inches,'04. collection of artist..jpg</image>
+				<image text="Mannequin, underpainting oil on canvas 16x20 inches '03.collection of artist.">3.Mannequin, underpainting oil on canvas 16x20 inches '03.collection of artist..jpg</image>
+				<image text="Tiffany ,  underpainting oil on canvas 18x20 inches '04. private collection Los angeles.">4.Tiffany ,  underpainting oil on canvas 18x20 inches '04. private collection Los angeles..jpg</image>
+				<image text="Sara,underpainting oil on canvas 18x20 inches '07. private collection Los angeles.">5.Sara,underpainting oil on canvas 18x20 inches '07. private collection Los angeles..jpg</image>
+				<image text="Mannequin,  underpainting oil on canvas 16x20 inches '03.collection of artist.">6.Mannequin,  underpainting oil on canvas 16x20 inches '03.collection of artist..jpg</image>
+				<image text="Mannequin,  underpainting oil on canvas 16x20 inches '03.collection of artist.">7.Mannequin,  underpainting oil on canvas 16x20 inches '03.collection of artist..jpg</image>
+				<image text="Lucas, underpainting oil on canvas 20x22 inches '09.private collection Los Angeles.">8. Lucas, underpainting oil on canvas 20x22 inches '09.private collection Los Angeles..jpg</image>
+				<image text="Carlie, underpainting oil on canvas 20x22 inches '09.private collection, Los Angeles.">9. Carlie, underpainting oil on canvas 20x22 inches '09.private collection, Los Angeles..jpg</image>
+				<image text="Callum, underpainting oil on canvas 16x20 inches '04.collection of artist.">10.Callum, underpainting oil on canvas 16x20 inches '04.collection of artist..jpg</image>
+				<image text="Don, underpainting oil on canvas 16x20 inches '04. private collection Los Angeles.">11.Don, underpainting oil on canvas 16x20 inches '04. private collection Los Angeles..jpg</image>
+				<image text="Ron,underpainting oil on canvas 20x24 inches '04.collection of artist.">12.Ron,underpainting oil on canvas 20x24 inches '04.collection of artist..jpg</image>
+				<image text="Jaime, underpainting oil on canvas 16x20 inches '08.private collection Los Angeles.">13.Jaime, underpainting oil on canvas 16x20 inches '08.private collection Los Angeles..jpg</image>
+				<image text="George underpainting, oil_pastel on 140lb arches paper, 16x20 inches, '07. private collection Los Angeles">14.George underpainting, oil_pastel on 140lb arches paper, 16x20 inches, '07. private collection Los Angeles.jpg</image>
+				<image text="Gary, 14x20 inches pastel_oil on paper '07. private collection London UK.">15.Gary, 14x20 inches pastel_oil on paper '07. private collection London UK..jpg</image>
+				<image text="Gary, Tiffany, Sara oil_pastel on paper 14x20 inches '07">16.Gary, Tiffany, Sara oil_pastel on paper 14x20 inches '07.jpg</image>
+				<image text="Lucas and Carlie underpaintings, oil on canvas, studio._09. private collection Los Angeles.">17.Lucas and Carlie underpaintings, oil on canvas, studio._09. private collection Los Angeles..jpg</image>
+				<image text="Phoebe and Charlotte underpaintings, oil on canvas, studio, '09. private collection Los Angeles.">18.Phoebe and Charlotte underpaintings, oil on canvas, studio, '09. private collection Los Angeles..jpg</image>
+			</underpainting>
+			
+			<salon folder="images/4.salon_archive/">
+				<image text="Gary's Titles, oil on canvas,12x16 inches 1992. private collection London UK.">1. Gary's Titles, oil on canvas,12x16 inches 1992. private collection London UK..jpg</image>
+				<image text="Docs, oil on canvas,18x24 inches 2008. private collection Los Angeles.">2. Docs, oil on canvas,18x24 inches 2008. private collection Los Angeles..jpg</image>
+				<image text="1910 boots, oil on canvas,12x14 inches 1993.collection of artist.">3. 1910 boots, oil on canvas,12x14 inches 1993.collection of artist..jpg</image>
+				<image text="New old boots. (sepia), oil on board ,8x10 inches.2010, private collection.">4. New old boots. (sepia), oil on board ,8x10 inches.2010, private collection..jpg</image>
+				<image text="Still life, oil on canvas, 24x30 inches, 2002. collection of artist">5. Still life, oil on canvas, 24x30 inches, 2002. collection of artist.jpg</image>
+				<image text="Frame, oil on canvas, 14x20 inches,2008.collection of artist.">6. Frame, oil on canvas, 14x20 inches,2008.collection of artist..jpg</image>
+				<image text="Standing blue figure, oil on canvas,48x60 inches 1993. private collection Los Angeles.">7. Standing blue figure, oil on canvas,48x60 inches 1993. private collection Los Angeles..jpg</image>
+				<image text="Box no.4, oil on canvas, 30x40 inches, 1999. private collection Los Angeles.">8.Box no.4, oil on canvas, 30x40 inches, 1999. private collection Los Angeles..jpg</image>
+				<image text="Cover girl, oil on canvas,30x40 inches 2002. private collection New York.">9. Cover girl, oil on canvas,30x40 inches 2002. private collection New York..jpg</image>
+				<image text="Still life with apple, oil on canvas, 30x40 inches, 2002. private collection Asheville, North Carolina.">10. Still life with apple, oil on canvas, 30x40 inches, 2002. private collection Asheville, North Carolina..jpg</image>
+				<image text="Still life with bananna, oil on canvas, 20x48 inches, 2002.collection of artist.">11. Still life with bananna, oil on canvas, 20x48 inches, 2002.collection of artist..jpg</image>
+				<image text="1932 basketball, oil on canvas,18x24 inches 2009. private collection Los Angeles.">12. 1932 basketball, oil on canvas,18x24 inches 2009. private collection Los Angeles..jpg</image>
+				<image text="Untitled, oil on canvas, 16x20 inches, 1985.collection of artist.">13.Untitled, oil on canvas, 16x20 inches, 1985.collection of artist..jpg</image>
+				<image text="Willow,(Book Illustration) 24x16 inches oil on Arches 140lb (cold press) paper 2009. private collection Los Angeles.">14. Willow,(Book Illustration) 24x16 inches oil on Arches 140lb (cold press) paper 2009. private collection Los Angeles..jpg</image>
+				<image text="Clouds(for Ira,book illustration.) oil on 140lb arches paper, 16x20 inches, 2009">15.Clouds(for Ira,book illustration.) oil on 140lb arches paper, 16x20 inches, 2009.jpg</image>
+				<image text="Clouds(for Ira,book illustration.) oil on 140lb arches paper, 16x20 inches,2009">16.Clouds(for Ira,book illustration.) oil on 140lb arches paper, 16x20 inches,2009.jpg</image>
+				<image text="Ira, (for Ira book Illustration) 24x16 inches oil on Arches 140lb (cold press) paper, 2009.">17. Ira, (for Ira book Illustration) 24x16 inches oil on Arches 140lb (cold press) paper, 2009..jpg</image>
+				<image text="Kitchen (for Ira,book illustration.) oil on 140lb arches paper, 16x20 inches, 2009">18.Kitchen (for Ira,book illustration.) oil on 140lb arches paper, 16x20 inches, 2009.jpg</image>
+				<image text="Elvgren's girl, oil on canvas,16x20 inches 1999. collection of artist.">19.Elvgren's girl, oil on canvas,16x20 inches 1999. collection of artist..jpg</image>
+				
+			</salon>
+		</paintings>
+		
+		<photography>
+			<portrait folder="images/7.portrait photographs/">
+				<image text="Tiffany _studio">1.Tiffany _studio.jpg</image>
+				<image text="Arnauld, archival pigment print, 30x40 inches, '04. private collection Paris, France.">Arnauld, archival pigment print, 30x40 inches, '04. private collection Paris, France..jpg</image>
+				<image text="Catherine archival pigment print, 48x60 inches, '05. private collection Los Angeles.">Catherine archival pigment print, 48x60 inches, '05. private collection Los Angeles..jpg</image>
+				<image text="Claritza, archival pigment print, 48x60 inches, '04. private collection Los Angeles.">Claritza, archival pigment print, 48x60 inches, '04. private collection Los Angeles..jpg</image>
+				<image text="Daisy, archival pigment print, 36x48 inches, '08. private collection Los Angeles.">Daisy, archival pigment print, 36x48 inches, '08. private collection Los Angeles..jpg</image>
+				<image text="Dalee, archival pigment print, 36x48 inches, '04.private collection Los Angeles.">Dalee, archival pigment print, 36x48 inches, '04.private collection Los Angeles..jpg</image>
+				<image text="Fabiana , archival pigment print, 48x60 inches '07. private collection Los Angeles.">Fabiana , archival pigment print, 48x60 inches '07. private collection Los Angeles..jpg</image>
+				<image text="Gary, archival pigment print, 48x60 inches, '06. private collection London UK">Gary, archival pigment print, 48x60 inches, '06. private collection London UK.jpg</image>
+				<image text="Jaime, archival pigment print, 48x60 inches, '08. private collection Los Angeles.">Jaime, archival pigment print, 48x60 inches, '08. private collection Los Angeles..jpg</image>
+				<image text="Jp, archival pigment print, 48x60 inches, '04.private collection London UK.">Jp, archival pigment print, 48x60 inches, '04.private collection London UK..jpg</image>
+				<image text="Julia, archival pigment print, 48x60 inches, '04. private collection Los Angeles.">Julia, archival pigment print, 48x60 inches, '04. private collection Los Angeles..jpg</image>
+				<image text="Karen, archival pigment print, 30x40 inches, '05.private collection Los Angeles.">Karen, archival pigment print, 30x40 inches, '05.private collection Los Angeles..jpg</image>
+				<image text="Martyn, archival pigment print, 36x48 inches, '08.private collection Los Angeles.">Martyn, archival pigment print, 36x48 inches, '08.private collection Los Angeles..jpg</image>
+				<image text="Matt, archival pigment print, 36x48 inches, '08.private collection Los Angeles.">Matt, archival pigment print, 36x48 inches, '08.private collection Los Angeles..jpg</image>
+				<image text="Richard, archival pigment print, 30x40 inches, '05.private collection Los Angeles.">Richard, archival pigment print, 30x40 inches, '05.private collection Los Angeles..jpg</image>
+				<image text="Robin, archival pigment print, 48x60 inches, '08.private collection Los Angeles.">Robin, archival pigment print, 48x60 inches, '08.private collection Los Angeles..jpg</image>
+				<image text="Ron, archival pigment print, 30x40 inches, '06. private collection Liverpool UK.">Ron, archival pigment print, 30x40 inches, '06. private collection Liverpool UK..jpg</image>
+				<image text="Samantha, archival pigment print, 30x40 inches, '09. private collection Los Angeles.">Samantha, archival pigment print, 30x40 inches, '09. private collection Los Angeles..jpg</image>
+				<image text="Sammy, archival pigment print, 30x40inches, '09. private collection Los Angeles.">Sammy, archival pigment print, 30x40inches, '09. private collection Los Angeles..jpg</image>
+				<image text="Sara, archival pigment print, 48x60 inches, '05.private collection Los Angeles.">Sara, archival pigment print, 48x60 inches, '05.private collection Los Angeles..jpg</image>
+				<image text="Tiffany, archival pigment print, 48x60 inches, '04. private collection, Big Fork Montana.">Tiffany, archival pigment print, 48x60 inches, '04. private collection, Big Fork Montana..jpg</image>
+			</portrait>
+			
+			<carbonbeach folder="images/8.carbon_fire_joshua gallery/">
+				<image text="Carbon beach no.1, archive pigment print, 36x48, edition 11, '02.">1.Carbon beach no.1, archive pigment print, 36x48, edition 11, '02..jpg</image>
+				<image text="Carbon beach no.2, archive pigment print, 36 x48 inches, edition 11, '02">2.Carbon beach no.2, archive pigment print, 36 x48 inches, edition 11, '02.jpg</image>
+				<image text="Carbon beach no.3, archive pigment print, 30x48 inches, edition 11, '02">3.Carbon beach no.3, archive pigment print, 30x48 inches, edition 11, '02.jpg</image>
+				<image text="Carbon beach no.4. archive pigment print, 30x48 inches, edition 11, '02">4. Carbon beach no.4. archive pigment print, 30x48 inches, edition 11, '02.jpg</image>
+				<image text="Carbon beach no.8 archival pigment print, 36x48 inches, edition of 11, '02.">5.Carbon beach no.8 archival pigment print, 36x48 inches, edition of 11, '02..jpg</image>
+				<image text="Carbon beach no.10 archival pigment print, 36x48 inches, edition of 11, '02">6.Carbon beach no.10 archival pigment print, 36x48 inches, edition of 11, '02.jpg</image>
+				<image text="Carbon beach no.9 archival pigment print, 36x48 inches, edition of 11, '02">7.Carbon beach no.9 archival pigment print, 36x48 inches, edition of 11, '02.jpg</image>
+			</carbonbeach>
+			
+			<joshuatree folder="images/8.carbon_fire_joshua gallery/">
+				<image text="Joshua tree no.1, archival pigment print, 24x50 inches, edition of 11, '92.">8. Joshua tree no.1, archival pigment print, 24x50 inches, edition of 11, '92..jpg</image>
+				<image text="Joshua tree no.2, archival pigment print, 24x 50 inches, edition of 11, '92.">9. Joshua tree no.2, archival pigment print, 24x 50 inches, edition of 11, '92..jpg</image>
+				<image text="Joshua tree no.6, archival pigment print, 20x 50 inches, edition of 11, '92.">10. Joshua tree no.6, archival pigment print, 20x 50 inches, edition of 11, '92..jpg</image>
+				<image text="Joshua tree no.11. archival pigment print, 24x 50 inches, edition of 11, '92.">11. Joshua tree no.11. archival pigment print, 24x 50 inches, edition of 11, '92..jpg</image>
+				<image text="Joshua tree no.12, archival pigment print, 24x 50 inches, edition of 11, '92.">12. Joshua tree no.12, archival pigment print, 24x 50 inches, edition of 11, '92..jpg</image>
+				<image text="Joshua tree no.19, archival pigment print, 24x 50 inches, edition of 11, '92">13. Joshua tree no.19, archival pigment print, 24x 50 inches, edition of 11, '92.jpg</image>
+				<image text="Joshua tree no.22, archival pigment print, 24x 50 inches, edition of 11, '92.">14. Joshua tree no.22, archival pigment print, 24x 50 inches, edition of 11, '92..jpg</image>
+				<image text="Joshua tree no.29, archival pigment print, 16x60 inches, edition of 11, '92">15. Joshua tree no.29, archival pigment print, 16x60 inches, edition of 11, '92.jpg</image>
+			</joshuatree>
+			
+			<fire folder="images/8.carbon_fire_joshua gallery/">
+				<image text="Fire no.3, archival pigment print, 48x20 inches, edition of 11, '94.">16.Fire no.3, archival pigment print, 48x20 inches, edition of 11, '94..jpg</image>
+				<image text="Fire no.11, archival pigment print, 20x48 inches, edition of 11, '94.">17. Fire no.11, archival pigment print, 20x48 inches, edition of 11, '94..jpg</image>
+				<image text="Fire no.6, archival pigment print, 20x48 inches, edition of 11, '94.">18. Fire no.6, archival pigment print, 20x48 inches, edition of 11, '94..jpg</image>
+				<image text="Fire no.20, archival pigment print, 42x48 inches, edition of 11, '94.">19. Fire no.20, archival pigment print, 42x48 inches, edition of 11, '94..jpg</image>
+			</fire>
+			
+			<figure folder="images/9.figure photography/">
+				<image text="studio,'08 ">1. studio,'08 .jpg</image>
+				<image text="figure no.2, archival pigment print, 34x40 inches, edition of 11, '08">2.figure no.2, archival pigment print, 34x40 inches, edition of 11, '08.jpg</image>
+				<image text="figure no.3, archival pigment print, 30x40 inches, edition of 11, '08">3.figure no.3, archival pigment print, 30x40 inches, edition of 11, '08.jpg</image>
+				<image text="figure no.4, archival pigment print, 34x40 inches, edition of 11, '08">4.figure no.4, archival pigment print, 34x40 inches, edition of 11, '08.jpg</image>
+				<image text="figure no.7, archival pigment print, 34x40 inches, edition of 11, '08">5.figure no.7, archival pigment print, 34x40 inches, edition of 11, '08.jpg</image>
+				<image text="figure no.11, archival pigment print, 34x40 inches, edition of 11, '08">6.figure no.11, archival pigment print, 34x40 inches, edition of 11, '08.jpg</image>
+				<image text="figure no.16, archival pigment print, 28x40 inches, edition of 11, '08.">7.figure no.16, archival pigment print, 28x40 inches, edition of 11, '08..jpg</image>
+				<image text="figure no.18, archival pigment print, 30x40 inches, edition of 11, '08.">8.figure no.18, archival pigment print, 30x40 inches, edition of 11, '08..jpg</image>
+				<image text="figure no.19, archival pigment print, 30x40 inches, edition of 11, '08.">9.figure no.19, archival pigment print, 30x40 inches, edition of 11, '08..jpg</image>
+				<image text="figure no.28, archival pigment print, 20x40 inches, edition of 11, '08">10.figure no.28, archival pigment print, 20x40 inches, edition of 11, '08.jpg</image>
+				<image text="figure no.20, archival pigment print, 30x40 inches, edition of 11, '08.">11.figure no.20, archival pigment print, 30x40 inches, edition of 11, '08..jpg</image>
+				<image text="figure no.30, archival pigment print, 34x40 inches, edition of 11, '08">12.figure no.30, archival pigment print, 34x40 inches, edition of 11, '08.jpg</image>
+				<image text="figure no.31, archival pigment print, 34x40 inches, edition of 11, '08">13..figure no.31, archival pigment print, 34x40 inches, edition of 11, '08.jpg</image>
+				<image text="figure no.32, archival pigment print, 30x40 inches, edition of 11, '08">14.figure no.32, archival pigment print, 30x40 inches, edition of 11, '08.jpg</image>
+				<image text="figure no.33, archival pigment print, 30x40 inches, edition of 11, '08">15.figure no.33, archival pigment print, 30x40 inches, edition of 11, '08.jpg</image>
+				<image text="figure no.36, archival pigment print, 30x40 inches, edition of 11, '08">16.figure no.36, archival pigment print, 30x40 inches, edition of 11, '08.jpg</image>
+			</figure>
+		</photography>
+		
+		<bigbear>
+			<paintings folder="images/6.big bear/">
+				<image text=""><![CDATA[The Big Bear paintings were created one winter's evening back in the fall of 2000. The photographs I took lasted all of around 45 seconds, as the cars behind me began hooting their horns and getting very impatient realising I had just blocked the only small road leading out of the mountain. The sun was setting and I thought the light and composition worked very well.  Not realising at that moment what I had, those few shots enabled me to create a series of over 130 paintings some ten years in the making. ]]></image>
+				<image text="big bear, paynes grey, lamp black no.1, oil on canvas, 48x60 inches, '00 .">1.big bear,paynes grey, lamp black no.1, oil on canvas, 48x60 inches, '00 ..jpg</image>
+				<image text="big bear, paynes grey, lamp black no.2, oil on canvas, 48x60 inches, '01">2.big bear, paynes grey, lamp black no.2, oil on canvas, 48x60 inches, '01..jpg</image>
+				<image text="big bear, raw sienna, lamp black no.3, oil on canvas, 48x60 inches, '00.">3.big bear,raw sienna. lamp black no.3, oil on canvas, 48x60 inches, '00..jpg</image>
+				<image text="big bear, raw sienna, lamp black no.4, oil on canvas, 48x60 inches, '00">4.big bear, raw sienna, lamp black no.4, oil on canvas, 48x60 inches, '00..jpg</image>
+				<image text="big bear, paynes grey, lamp black no.6, oil on canvas, 48x60 inches, '01.">5.big bear, paynes grey, lamp black no.6,oil on canvas, 46x60 inches,'00..jpg</image>
+				<image text="big bear, paynes grey, lamp black no.7, oil on canvas, 48x60 inches,'01.">6.big bear,paynes grey, lamp black no.7, oil on canvas, 48x60 inches, '01..jpg</image>
+				<image text="big bear, paynes grey, lamp black no.10, oil on canvas, 48x60 inches, '01.">7.big bear,paynes grey, lamp black no.10, oil on canvas, 56x60 inches,'01..jpg</image>
+				<image text="big bear, paynes grey, raw sienna no.16, oil on canvas, 48x70 inches,'02">8.big bear,paynes grey, raw sienna no.16, oil on canvas, 40x70 inches,'02.jpg</image>
+				<image text="big bear, paynes grey, lamp black no. 17, oil on canvas, 48x70 inches, '02">9.big bear, paynes grey, lamp black no. 17, oil on canvas, 48x70 inches, '02.jpg</image>
+				<image text="big bear, paynes grey, lamp black no.18, oil on canvas, 55x60 inches, '02.">10.big bear, paynes grey, lamp black no.18, oil on canvas, 56x60 inches, '02..jpg</image>
+				<image text="big bear, paynes grey, lamp black no. 20 oil on canvas, 48x60 inches, '02.">11.big bear, paynes grey, lamp black no. 20 oil on canvas, 48x60 inches, '02..jpg</image>
+				<image text="big bear, paynes grey, lamp black no.36, oil on canvas, 48x60 inches, '04.">12.big bear, paynes grey, lamp black no.36, oil on canvas, 48x60 inches, '04..jpg</image>
+				<image text="big bear, paynes grey, lamp black no. 60 , oil on canvas, 50x70 inches, '07.">13.big bear,paynes grey, lamp black no. 60 , oil on canvas, 50x70 inches, '07..jpg</image>
+				<image text="big bear, paynes grey, lamp black no.62, oil on canvas, 50x70 inches,'07.">14.big bear, paynes grey, lamp black no.62, oil on canvas, 50x70 inches,'07..jpg</image>
+				<image text="big bear, paynes grey, lamp black no.63, oil on canvas, 50x70 inches,'07.">15.big bear, paynes grey, lamp black no.63, oil on canvas, 50x70 inches,'07..jpg</image>
+				<image text="big bear, paynes grey, lamp black no.64, oil on canvas, 50x70 inches, '07.">16.big bear, paynes grey, lamp black no.64, oil on canvas, 50x70 inches, '07..jpg</image>
+				<image text="big bear, paynes grey, lamp black no. 65, oil on canvas, 48x70 inches, '07.">17.big bear, paynes grey, lamp black no. 65, oil on canvas, 48x70 inches, '07..jpg</image>
+				<image text="big bear, paynes grey, lamp black no.69, oil on canvas, 48x70 inches,'08">18.big bear, paynes grey, lamp black no.69, oil on canvas, 48x70 inches,'08.jpg</image>
+				<image text="big bear, paynes grey, lamp black no.70, oil on canvas, 48x60 inches,'08.">19.big bear, paynes grey, lamp black no.70, oil on canvas, 48x60 inches,'08..jpg</image>
+			</paintings>
+		</bigbear>
+	</work>
+	
+	<biography>
+		<ronistretch>
+			<![CDATA[RONI STRETCH  
+1964 - Born  St.Helens, Merseyside, England.
+Works and resides in Los Angeles, CA]]>
+		</ronistretch>
+		
+		<education>
+			<![CDATA[EDUCATION
+1982 - 83  St.Helens College of Art & Design,
+		   St.Helens, Merseyside, England.]]>
+		</education>
+		
+		<soloshows>
+			<![CDATA[SELECTED SOLO SHOWS
+2008	'Veronica's Napkin'<br/>	Deborah Page Gallery<br/>	Santa Monica, CA<br/>	"Dichromatic Paintings"<br/>	Canvas BG, Malibu CA
+2007	"Dichromatic Portraits"<br/>	Anne Reed Gallery,<br/>	Ketchum, Idaho
+2006	"Brandenburg"<br/>	Peyton Right Gallery<br/>	Santa Fe NM
+2005	'Dichromatic  Portraits"<br/>	Gallery C Hermosa Beach ,CA
+2004	Gallery C @ Bvlgari<br/>	Rodeo Dr, Beverly Hills CA<br/>	"Thin Ice, Titanium White'
+2004	Off Main-Media Rare Gallery in<br/>	conjunction with Steve Michel Gallerie,<br/>	Bergamot Station, Santa Monica, CA<br/>	"Dichromatic paintings & photographs"
+2003	The Wiesman Collection -<br/>	Paintings from the early 90's"<br/>	Bliss, Beverly Hills, CA. 
+2001	Steve Michel Gallerie,<br/>	New York. NY.<br/>	'Dichroism - Recent Paintings"
+1999	Steve Michel Gallerie,<br/>	New York. NY.<br/>	"The Suede Effect"
+1998	Simon Schade Gallery,<br/>	Los Angeles CA.<br/>	"Faces & Figures"
+1998	Enclave Gallery,<br/>	Venice, CA.
+1997	International Art Gallery,<br/>	Orange County CA.]]>
+		</soloshows>
+		
+		<groupshows>
+			<![CDATA[SELECTED GROUP SHOWS
+2010 	Santa Monica Museum of Art<br/>	Santa Monica , CA<br/>	"Incognito"
+2009	Madison Gallery<br/>	La Jolla, CA<br/>	The Edge Gallery<br/>	Santa Fe, NM
+2008	Anne Reed Gallery<br/>	Ketchum, Idaho
+2007	"Summer Show"<br/>	Anne Reed Gallery<br/>	Ketchum, Idaho
+2006	"Retrospective/Prospective<br/>	Anne Reed Gallery,<br/>	Ketchum, Idaho
+2005 	Los Angeles County Museum  of Art<br/>	AR&S, Leo S.Bing Center<br/>	Los Angeles. CA
+2005 	"New Old Masters,"<br/>	curated by Donald Kuspit<br/>	Gallery C, Hermosa Beach, CA.
+2005 	"Fresh" Museum of Contemporary Art<br/>	Geffen Contemporary, Los Angeles, CA
+2005 	"Inter Acts"<br/>	Inter Gallery, Piazza Diaz 6<br/>	Milan, Italy
+2004	"Nine" Gallery C<br/>	Hermosa Beach, CA]]>
+		</groupshows>
+		
+		<specialprojects>
+			<![CDATA[SELECTED SPECIAL PROJECTS
+2009	Red Tie Affair, American Red Cross<br/>	Fairmont Miramar Hotel<br/>	Santa Monica, CA<br/>	LA Lakers Youth Foundation<br/>	Riviera Country Club, Pacific Palisades, CA<br/>	Fed Ex/St.Judes Angels and Stars Gala<br/>	Miami, Florida
+2008	Art Seen, benefiting Aids Research Alliance<br/>	Smash Box Studios, LA, CA<br/>	Crossroads Art '08<br/>	"What does green mean to you?"<br/>	Tract 16 gallery, Bergamot St.<br/>	Santa Monica CA
+2007	Art for Art Benefit Auction at the Next Stage<br/>	Ketchum, Idaho
+2006	Venice Family Clinic<br/>	Bergamont Station, Santa Monica, CA
+2005 	Center Theatre Group, "Angels Night"<br/>	Mark Taper Forum, Beverly Hills, CA
+2004	Gerkha Welfare Trust and the Bristol Cancer<br/>	Health Center, Royal Polo Match, Cirencester,<br/>	Gloucestershire, Uk
+2002	Official Artist of the Peoples Choice Awards,<br/>	Los Angeles, CA.
+2001	A Community of Angels Project,<br/>	Los Angeles, CA.<br/>	Official Artist of the American Music Awards,<br/>	Los Angeles, CA.<br/>]]>
+		</specialprojects>
+	
+		<publiccorporatecollections>
+			<![CDATA[SELECTED PUBLIC / CORPORATE COLLECTIONS
+Pasadena Museum of California Art<br/>	Pasadena, CA
+Museum of California Design<br/>	Los Angeles, CA
+Museum of Design, Art and Architecture<br/>	Culver City, Los Angeles, CA
+Richard Weisman Foundation<br/>	Beverly Hills, CA
+Magic Johnson Pediatric Aids Foundation,<br/>	Los Angeles, CA.
+California Plaza, South Grand Avenue,<br/>	Los Angeles ,CA.
+Blue Cross / Blue Shield Corporate HQ,<br/>	New York.
+Dick Clark Collection,<br/>	Burbank ,CA.
+My Brothers Keeper Corporate HQ,<br/>	New York.
+Make -A-Wish Foundation,<br/>	Los Angeles, CA.
+Williams Entertainment Corporate HQ,<br/>	London, England.
+Soleido HQ,<br/>	Paris, France.
+Southern Cross Healthcare Corporate HQ,<br/>	London, England.
+Susan G. Komen Breast Cancer Foundation,<br/>	Los Angeles, CA.
+Paloma Westwood Hotel<br/>	Westwood, LA, CA
+Sunrise Children's Hospital,<br/>	Las Vegas,NV.
+The Coffee Bean and Tea Leaf<br/>	Corporate HQ, Los Angeles ,CA.
+The Trawick Group, <br/>	Encino, CA]]>
+		</publiccorporatecollections>
+
+		<privatecollections>
+			<![CDATA[SELECTED PRIVATE COLLECTIONS
+Robin Antin,<br/>	Hollywood, CA
+Jorge E. Arce, D.D.S.<br/>	Redondo Beach, CA
+Manuel Q Bautista M.D.,<br/>	Agana, Guam
+Ray Bailey M.D,<br/>	Sherman Oaks, CA.
+Molly Bloom,<br/>	New York, NY.
+Michael & Steven Bouskila,<br/>	New York, NY.
+Martyn Lawrence Bullard,<br/>	Los Angeles, CA.
+Edgar & Vanessa Burgos,<br/>	Chicago,  IL.
+Kim Byrd,<br/>	Los Angeles, CA.
+Dick & Kari Clark,<br/>	Los Angeles, CA.
+Joe & Wendy Craig,<br/>	Highland, CA
+Jamie & Allisa  Daquino,<br/>	Encino CA.
+Raymond S. Douglas, MD. P.h.D.<br/>	Los Angeles, CA
+Dianne Diamond,<br/>	Los Angeles, CA.
+Robert and Susan Downey Jr.<br/>	Malibu , CA
+Giusseppe Franco,<br/>	Los Angeles, CA.
+Jonathon & Juliet Felton,<br/>	Encino, CA.
+Solomon & Raven Fima,<br/>	Los Angeles, CA.
+Daisy Fuentes,<br/>	Hollywood, CA
+Richard Gatti M.D.,<br/>	Los Angeles, CA
+Matt Goss,<br/>	Hollywood, CA
+Iris & Santiago Grau,<br/>	Ponce, Puerto Rico.
+Giorgio & Erica Galvani,<br/>	Pordenone, Venice, Italy.
+Rick & Danny Gallant,<br/>	Los Angeles, CA / Exeter, NH
+Simon Hayes,<br/>	London, England.
+Hugh Hefner,<br/>	Los Angeles, CA.
+Gregg & Andi Hrncir,<br/>	Encino, CA
+John Ieroklis,<br/>	Sydney, Australia
+Joacim & Veronique Karlsson,<br/>	Mauritius, Indian Ocean
+Jackie Kallan, Detroit,<br/>	MI / Los Angeles, CA
+Laura Kaufman,<br/>	Los Angeles, CA
+Jaime King,<br/>	Los Angeles, CA
+Larry Klien,<br/>	Los Angeles, CA.
+Sam Kweskin,<br/>	San Clemente, CA.
+Jean Paul Epstein & Tiffany Lebel,<br/>	Big Fork, Montana.
+Rob Leff,<br/>	Santa Monica, CA
+Jim  Leff,<br/>	Lake Sherwood, CA
+Erroll Lueshing,<br/>	London, England
+Arnaud Levasseur,<br/>	Paris, France.
+Robert & Katy Nickell,<br/>	Hermosa Bch, CA
+Costas Mandalor,<br/>	Los Angeles, CA      
+Nan Miller,<br/>	Rochesher, NY
+Darren Mercer,<br/>	Manchester. England.
+Brian Mcknight,<br/>	Los Angeles, CA.
+Dianne Mandell,<br/>	Los Angeles, CA.
+Freya Miller,<br/>	Yorkshire, England.
+Lee Madison,<br/>	Ashville, NC.
+Elon Musk,<br/>	Beverly Hills, CA
+John & Karen Moreton,<br/>	London, England.
+Kyle Newman,<br/>	Los Angeles, CA.
+Chris & Jan Oiestad,<br/>	Acton, CA.
+Giuseppe Oliva, London,<br/>	England/ Milan, Italy
+Haley Owen,<br/>	Beverly Hills, CA
+Laura Pallas and W Stanford Davis,<br/>	Sherman Oaks, CA
+Christine & Oliver Peake,<br/>	Santa Monica, CA.
+Jeremy Piven,<br/>	Malibu, CA
+Steven Philipson,<br/>	Huntington Beach, CA.
+Christina Parker,<br/>	Rio de Janiro, Brazil.
+Patrick Parsons,<br/>	Redondo Beach, CA.
+Gina Posalski,<br/>	Beverly Hills, CA
+Mickey Rourke,<br/>	Los Angeles, CA.
+Mark Romero,<br/>	San Pedro, CA.
+Bonnie Sachs,<br/>	Burbank, CA
+Roselyn Sanchez,<br/>	Los Angeles, CA/ San Juan, Puerto Rico.
+Ellen Slossman,<br/>	Asheville NC
+Charles Snyder M.D,<br/>	Colorado Springs, Colorado.
+Talisa Soto,<br/>	New York, NY
+Eric Spitz,<br/>	Los Angeles CA
+Oliver Stone,<br/>	Santa Monica, CA
+Jason & Elizabeth-Guber Sugerman,<br/>	Beverly Hills, CA
+Dan & Charmian Taylor,<br/>	Pacific Palisades, CA
+Ann Turkel,<br/>	Los Angeles, CA.
+Mel & Thelma Turkel,<br/>	Armonk, New York.
+Eric Thiele,<br/>	Los Angeles, CA / Rome, Italy.
+Sue Tsao,<br/>	Beverly Hills, CA
+Roy Ullyet,<br/>	O.B.E, London, England.
+Eric Winter,<br/>	Hollwood, CA
+Ian Williams,<br/>	London, England.
+Richard Weisman,<br/>	Los Angeles, CA/ Seattle, WA     
+Jacques Wizman<br/>	Los Angeles,CA.
+Luther Vandross,<br/>	New York, NY.
+Brett Vansledright,<br/>	San Fransisco, CA.
+Angela Van Wright,<br/>	Monte Carlo, Monaco
+Darren Mercer,<br/>	Manchester. England.
+Brian Mcknight,<br/>	Los Angeles, CA.
+Dianne Mandell,<br/>	Los Angeles, CA.
+Freya Miller,<br/>	Yorkshire, England.
+Lee Madison,<br/>	Ashville, NC.
+Elon Musk,<br/>	Beverly Hills, CA
+John & Karen Moreton,<br/>	London, England.
+Kyle Newman,<br/>	Los Angeles, CA.
+Chris & Jan Oiestad,<br/>	Acton, CA.
+Giuseppe Oliva,<br/>	London, England/ Milan, Italy
+Haley Owen,<br/>	Beverly Hills, CA
+Laura Pallas,<br/>	Sherman Oaks, CA
+Christine & Oliver Peake,<br/>	Santa Monica, CA.
+Jeremy Piven,<br/>	Malibu, CA
+Steven Philipson,<br/>	Huntington Beach, CA.
+Christina Parker,<br/>	Rio de Janiro, Brazil.
+Patrick Parsons,<br/>	Redondo Beach, CA.
+Gina Posalski,<br/>	Beverly Hills, CA
+Mickey Rourke,<br/>	Los Angeles, CA.
+Mark Romero,<br/>	San Pedro, CA.
+Bonnie Sachs,<br/>	Burbank, CA
+Roselyn Sanchez,<br/>	Los Angeles, CA/ San Juan, Puerto Rico.
+Ellen Slossman,<br/>	Asheville NC
+Charles Snyder M.D,<br/>	Colorado Springs, Colorado.
+Talisa Soto,<br/>	New York, NY
+Eric Spitz,<br/>	Los Angeles CA
+Oliver Stone,<br/>	Santa Monica, CA
+Jason & Elizabeth-Guber Sugerman,<br/>	Beverly Hills, CA
+Dan & Charmian Taylor,<br/>	Pacific Palisades, CA
+Ann Turkel,<br/>	Los Angeles, CA.
+Mel & Thelma Turkel,<br/>	Armonk, New York.
+Eric Thiele,<br/>	Los Angeles, CA / Rome, Italy.
+Sue Tsao,<br/>	Beverly Hills, CA
+Roy Ullyet, O.B.E,<br/>	London, England.
+Eric Winter,<br/>	Hollwood, CA
+Ian Williams,<br/>	London, England.
+Richard Weisman,<br/>	Los Angeles, CA/ Seattle, WA     
+Jacques Wizman<br/>	Los Angeles,CA.
+Luther Vandross,<br/>	New York, NY.
+Brett Vansledright,<br/>	San Fransisco, CA.
+Giselle and Stuart Wolf,<br/>	London, UK / New York, NY.
+Angela Van Wright,<br/>	Monte Carlo, Monaco]]>
+		</privatecollections>
+
+		<bibliography>
+			<![CDATA[SELECTED BIBLIOGRAPHY
+2009	San Diego GL News
+	Gallery Review – La Jolla
+	12/24/09 Alex Salazar "Cream Rises to the Top"
+	Celebrity News Los Angeles
+	August 30th  Kimberly Moore
+	"The Seen, A Whole New Ballgame"
+	Kari Mozena, Los Angeles Times
+	March 10th<br/>
+2008	Malibu Magazine, volume 6 issue 5
+	August/September "Canvas it starts with Art"<br/>
+2007	"Brandenburg" Karen Bossick
+	The Wood River Journal, Ketchum	
+	Feb 16th, Anne Reed Show
+	"Take a long look ' Sabina Dana Plasse
+	Arts and Events, Idaho Mountain Express
+	Sun Valley. Feb 14th , section C<br/>
+2006	"Dichromatic"
+	Santa Fe Reporter, Visual Arts
+	October 4 – 10 th<br/>
+2005	Museum of Contemporary Art, 
+	Los Angeles, - "Fresh"
+	Show catalog
+	"Trailblazing artist"
+	Michael Hixon, The Beach Reporter
+	Sept 22nd, "Dichromatic Portraits" review
+	Art Scene, Dichromatic show review, Sept
+	Vol 25, No. 1 Continuing and Recommended
+	Art  Needs More Human
+	Rebecca Schoenkopf. OC weekly
+	"California New Old Masters"
+	Art Scene, March  vol 24. no.7
+	Bill Lascrow
+	"California New Old Masters"
+	Flavorpill LA, Index magazine
+	Thursday Feb 3
+	L A Faces at Gallery C
+	Shana Nys Dambrot
+	California New Old Masters
+	Gallery C show catalog, Donald Kuspit
+	California New Old Masters opening review
+	"The End Of Donald Kuspit?"
+	Doug Harvey, LA Weekly Jan 28 – Feb 3
+	"Back to the deawing board"
+	Los Angeles Times, - New Old Masters Review
+	Leah Ollman, March 6th<br/>
+2004	"Nine at Gallery C", Garrison Frost, The Aesthetic
+	'Patrons Of The Arts, Conversations
+	Richard Weisman Collector and Roni Stretch Artist'
+	Ezhra Jean Black, Angelino Magazine, July.<br/>
+2003   "Art, Menage a moi, Three
+	Great Tastes at Marion Meyer."
+	Rebecca Schoenkopf, Orange County Weekly.
+	Look Magazine 25th march
+	Rosalind Powell
+	"The Bridge Builder - The Art of Roni Stretch"
+	Alan Mcleod.
+	Figurative / Abstract,  Quotidian / Meridian"
+	Richard Dyer. Dichromatic Show catalog<br/>
+2000	"What's on Art" Linda Collins,
+	The Argonaut.<br/>
+1999	"Roni Stretch" Marissa Harlow,
+	London Weekender.
+	Art World News.
+	"The Art of Fashion"<br/>
+1998	Julie Keller, Art  Business News.
+	"Artists and Publishers"<br/>
+1997  "Hunk Art" Rebecca Schoenkopf,
+	Orange County Weekly.
+	"Beyond Haute Couture"
+	William A. Emboden, Int Art Gallery]]>
+		</bibliography>
+	</biography>
+	
+	<reviews>
+		<latimesarticle><![CDATA[LOS ANGELES TIMES  ART
+Back to the drawing board
+Ironic postmodernism has played itself out, Donald Kuspit says. He's pushing the art world toward a return to mastery.
+By Leah Ollman<br/>Special to The Times<br/>March 6, 2005
+After delivering a lecture at Yale a few years ago, art historian and critic Donald Kuspit strolled through the university's art studios, as is his habit when traveling, to see what students were up to. One encounter that day summed it up:
+"I went into the studio of a young woman and asked to see her work," he recalls. "She said: 'I have no work. I'll show you a tape of my professors criticizing me for not working. That's my work. They came to my studio and asked me why I wasn't doing anything. But I said: "I am doing something. I'm filming you." ' "
+Get Kuspit started, the way he was before a packed house at Hermosa Beach's Gallery C recently, and he'll give example after example of what he calls "the end of art." The cover of his newest book, by that title, bears a photograph of an ashtray filled with cigarette butts. It's not just an emblem of something used up and snuffed out but another illustration of Kuspit's claim that too much contemporary art merely throws the banality of everyday life right back at us, unexamined, untransformed. The image is by British artist Damien Hirst, who made art world headlines and elicited rest-of-the-world chuckles in 2001 when a janitor swept one of his installations of deliberately strewn debris into the trash.
+"Making art," Kuspit grumbles in his book, "has become a case of putting on the emperor's new clothing and getting away with it — calling raw life interesting art and convincing people that it is."
+Kuspit, 69, is not a straggly-bearded outsider wandering barefoot with a sign proclaiming that the end is near. He's a tweedy-looking professor of art history and philosophy (State University of New York at Stony Brook) with a handful of doctorates to his name and more than 30 books to his credit ("The Rebirth of Painting in the Late 20th Century" and "Psychostrategies of Avant-Garde Art" among them) proclaiming that the end is here.
+Art, he says, has become a decadent farce. He cites work such as Hirst's and the episode with the Yale student as persuasive proof. This kind of "postaesthetic art" — art that repudiates beauty, that takes its inspiration from the street rather than the studio, from popular culture rather than the unconscious — demands to be taken on faith. Its dominance now, he asserts, is evidence that the contemporary art scene functions like a cult. Whether Kuspit fancies himself a deprogrammer or the authoritative leader of an opposing sect is a matter of interpretation.
+Some hail his literate rants against the status quo as brave.
+"I think it's a really important corrective," comments artist Ruth Weisberg, dean of the school of fine arts at USC and one of a dozen or so artists singled out for praise in Kuspit's book and included in a Gallery C show that Kuspit curated. "The art world gets extremely self-involved and sometimes loses a wider perspective, both human and art historical. [Kuspit's argument] is healthy and provocative in a good way."
+Others laugh at Kuspit's psychoanalysis-steeped traditionalism.
+"You mean there's another end-of-art book out there?" scoffs Dave Hickey, a teacher, curator and critic. "He should write about the end of Freud. That's more likely to happen sooner. Donald's crazed."
+Kuspit's views on where we are, art-wise, how we got here and especially on where we ought to go from here are passionately declamatory and usually spicily defamatory too. Tossing them into conversation ensures a lively joust. They highlight divisions that already exist within the art world, though people who hear him out don't necessarily fall neatly along party lines. Even some who dismiss Kuspit's conclusions find themselves agreeing with some of his premises, especially his assertion that postmodernism has played itself out.
+"I'm in agreement with him that things are kind of boring right now," says Hickey, who teaches writing at the University of Nevada at Las Vegas and is a guest professor and curator at Otis College of Art and Design in Los Angeles this year. "How could you disagree with that? You know how army ants sometimes go around and around in a circle until they all die? I think we may be in that situation."
+Architects of the end
+Kuspit points to Marcel Duchamp as the original leader of this suicide brigade. His "readymades," common objects such as bottle-drying racks and urinals taken out of their functional context and presented as found sculpture, dissolved the difference between art and nonart. That difference is crucial, according to Kuspit. Without it, the whole relationship between artist, artwork and spectator turns farcical. Owing to Duchamp, the act of making art shifted away from the hand to rest entirely in the mind. Duchamp discredited and undermined the aesthetic. His doing so, Kuspit writes, was "a triumph of destructiveness that has corrupted twentieth century creativity."
+After Duchamp, in Kuspit's chronology of culprits, comes Allan Kaprow. His "happenings" of the late 1950s and early '60s launched the broader practice of performance art, kin to conceptual art and embodiment of the belief that life is superior to art — or as Kaprow has written, "nonart is more art than Art art." Kaprow's influence has been damaging, Kuspit says. He wrote "some very important essays about what he called 'postart' and the 'unartist.' Very brilliant mind, but wrongheaded. Postart blurs the boundaries between art and life, to the detriment of the aesthetic. His position is that if you look in the mirror and brush your teeth in the right way, it's art."
+Artists from the '70s to the present have been schooled more in the basics of conceptual thought and theory than in the fundamentals of drawing and painting.
+So here we are, in the early 21st century, reaping the harvest of Duchamp's and Kaprow's legacies — mopping up the dead ants.
+If modern art was characterized by a sense of breakthrough and experimentation, postmodern art, laments Kuspit, is its exhausted aftermath. It's all about irony, apathy and disillusionment. It has become all business and entertainment. He longs for artists who have a profound faith in art, who see it as a lofty calling rather than a cynical career.
+"It sounds like he's having an old-fogy response," says Lynn Zelevansky, curator and head of the modern and contemporary art department at the L.A. County Museum of Art. "It's still very, very hard to be an artist, and you couldn't sustain that without believing in it. It's still a very hard life. The only reason to do it is because you have to."
+Of Kuspit's position, she adds, "One gets to a point when one's no longer in sync with the culture, when one's out of touch with today's younger culture-makers. For some people that happens before they're 40, for others, not till they're 70. We all have to be careful about that. I'm sure in [Kuspit's] youth, there were older people telling him that the art he believed in was the emperor's new clothes."
+If, as Kuspit claims, art has been trivialized, how can it be reinvested with meaning and potency? By dealing with the beautiful and the important, he says. "Coleridge said that what the artist is about is finding the moment of transcendence in the everyday, the moment of the lyrical in what looks banal."
+In his book, Kuspit names a number of artists he thinks defy postaesthetic art's rampant cleverness, among them Jenny Saville, April Gornik, Lucian Freud and Julie Heffernan. He credits them with helping to restore humanism to art and reaffirming the value of technical skill. He's dubbed them "New Old Masters" for their synthesis of critical sensibility with traditional training.
+Kuspit has also identified two dozen "New Old Masters" working in California and gathered their work — mostly painting, drawing and prints — in a show at Gallery C. The selection includes Dan McCleary's contemplative portraits, Sandow Birk's contemporary history paintings, Weisberg's fusion of art history and lived experience, Marc Trujillo's distilled urban scenes, Robert Schwartz's allegories, Masami Teraoka's updates on Japanese woodblock prints, the late James Doolin's Southern California landscapes, Enjeong Noh's figurative scenes, Guy Diehl's still lifes in homage to earlier artists, and more.
+Kuspit flew in from New York for the opening in late January and lectured to the standing-room-only crowd about how this art is "the new frontier of innovation and artistic thoughtfulness."
+Roni Stretch, whose meticulously painted spiritual portraits are one of the highlights in the show . Kuspit says ,"It takes a lot of guts to say some of the things Stretch is saying. Major writers and critics are not very likely to say that figurative art or representational art is still a main force in painting." 
+Indeed, Kuspit's endorsement of traditional academic skills doesn't convince everyone.
+"I'm all in favor of people knowing how to do what they do," Hickey says, "but whenever people talk about returning to art, they're talking about going back to drawing from casts. I think that's corny." As for the "New Old Masters' " fusion of traditional skills and critical sensibility, Hickey finds it self-evident. "It's my opinion that most professional artists have that."
+Counters Kuspit: "I've gotten a fair number of letters from artists saying they're very glad I've said what I've said. Often they're young people who want the skills. Some students think they're being sold short. They want to work from the model."
+Kuspit laments that younger artists don't know how to master a medium, but perhaps, says LACMA's Zelevansky, he's defining his media too narrowly. "Maybe they know other things that he doesn't know. Knowing how to draw is a kind of intelligence; you can't dismiss that. But on the other hand, the world has changed a lot, and young people today have skills and abilities that are different, with computers and other things, and that will be its own technique eventually."
+Kuspit savors the contradiction in his role as well-amplified voice in the wilderness. It comes as no surprise to him that the kind of work he's championing is not on the top of many museum curators' "must see" lists.
+"Our art scene is supposed to be so innovative, but it's an inertial system with vested interests," he says. "It's not so open. Curators and museum directors are on the avant-garde treadmill. It used to be that avant-garde art was outsider art. Now it's insider art."
+All the more reason for artists such as F. Scott Hess, whose emotionally charged paintings are in the Gallery C show, to be grateful for Kuspit's attention. "LACMA and [the Museum of Contemporary Art] are not going to look at this stuff unless they get some sort of impetus from outside of L.A. When Kuspit talks, people are going to listen. It's not as if he's approaching art in a light way or is trying to score political points. He's coming to this art after looking for so long.
+"The strength of the work is that it connects with human beings in a very direct way. It's not ironic. It's meant in a quite sincere fashion, and that's maybe what he responds to. He's sick of the cheap joke. These are people nailing their hearts to the wall, and that takes some courage."
+'California New Old Masters']]>
+		</latimesarticle>
+		
+		<dichromaticreview><![CDATA[RONI STRETCH
+DICHROMATICS
+The most effective way to see the star cluster of the Pleiades, or Seven Sisters, is to face the correct direction, but to look slightly to the left or right of the constellation. This simple act throws the indistinct smudge of this stellar constellation into sharp relief. A similar activation of peripheral vision is also fruitful when viewing the paintings of Roni Stretch. In works such as John naphthol crimson, tapestry red and Figure sap green, grey birch (both 2003), what at first appear to be flat rectangles of a single color reveal their inner cargo of a hidden face or figure by this simple act of shifted vision. Alternately the image is gradually revealed after extended contemplation; like a person slowly approaching us through a thick chromatic mist. 
+This series of paintings are ‘Dichromatic’ in that they are made up of alternating layers of two different colors, such as sap green and paynes grey, burnt sienna and terre verte, raw sienna and grey smoke. Stretch initiates the process by painting a photo-realistic underpainting, allowing the image to dry, colors are then applied in a translucent state. Both colors function equally in the chromatic structure of the painting. For example, Claritza uses a combination of oil, napthol  crimson and long oil alkyd resin, tapestry red. The initial impression is of a five-foot by four-foot, red monochrome, minimalist painting, but emerging from the depth of the seemingly solid color is the ‘portrait’ of a young woman, her eyes, dark hollows, the lower part of her face submerged in shadow. It is not so much a portrait of a particular person as the anthropomorphic evocation of the presence of the painting itself. It is as if by giving an abstract painting a ‘human face’ Stretch has given the viewer an entrance into what would otherwise be decoded as an artifact of late modernism.
+Stretch edits heavily, resulting in paintings that are not so much painted over as optically embedded within the multiple layers of alternating colors, it is part of the fabric of the abstract facture; abstract field and figurative image have been fused into a unique form of painting, one which partakes of seemingly opposite aspects on the continuum of painting, but allows them to coexist together, and instead of canceling each other out they combine to form a ‘new third state’ of painting.
+
+© Richard Dyer 2004. News Editor / London Correspondent for Contemporary Magazine, Assistant Editor for  Third Text; Critical Perspectives on Contemporary Art and Culture, and Editor, art journal Wasafiri, critical writer for Flash Art magazine, Third Text, Art Press, The Guardian, and Frieze magazine.]]>
+		</dichromaticreview>
+		
+		<portraitsreview><![CDATA[Roni Stretch’s Dichromatic Portraits:  Presence As Purity 
+My first response to Roni Stretch’s paintings was:  how extraordinarily exquisite, and how original.  I knew of nothing quite like them in the history of modern, let alone traditional art:  an ingenious, convincing integration of color field painting, Minimalist structure, and photo-realist portraiture.  Cutting edge postmodern for sure, for Stretch’s Dichromatic Portraits synthesize what are usually regarded as incommensurate--not simply abstract  ion and representation, but pure painting, with its effect of hermetic immediacy and aesthetic self-sufficiency. 
+In other words, Stretch ingeniously reunites what such pioneering abstractionists as Malevich and Mondrian separated:  the non-objective and the objective.  Stretch’s surfaces are sensuously elegant; the images embedded in them deviously evident, as though the sensuous surface was some cognitive veil.  He’s clearly forcing the limits of perception, suggesting that we always stand on the thr  eshold between blindness and (in)sight:  it’s as though the images are blind spots that suddenly become visible inside us, indicating that they are our own mental representations rather than externally real--which helps explain their ghostly, auratic presence and precious intangibility.    	
+This idea led me to my second response:  Stretch’s paintings are meditational exercises.  Their perfectionism is at once spiritual and technical:  the realization of perfect consciousness--and all art is ultimately about states of consciousness--and the seamless integration of figure and ground that symbolizes it.  The eureka moment of “re-cognition”-- the instant we become conscious of the face within the inscrutable surface, as though it was some hallucinatory projection of our own (the moment when we are inside the painting not simply contemplating it from the outside, a “seeing in” that suggests that the face we see is our own mask)--is the classic moment of enlightenment.  
+The paintings are in fact conceptual, for both the portrait and the surface exist as Platonic ideas however physically real. Ironically, their conceptual aspect is made clear by the system of their making: the sitter is photographed, a particular photograph chosen, a photo-realistic rendition of the photograph is painted-- similar to the way a design functions as the template guiding the painting of a fresco-- and then overpainted with two alternating layers of color, the second applied after the first has dried. 
+ Stretch’s paintings are not only meticulously executed, but polished with a certain Renaissance reserve, as the final application of three layers of resin suggests. These hide the marks of the work that went into the painting; Castiglione insisted that a true master must always do so, as final proof of his mastery, and also to add the lu  stre and resonance of the everlasting to the image.  Stretch does not simply paint over the initial underpainting - the camera becomes the painter’s observing second eye ,the photograph the preliminary drawing--but eternalizes or idealizes it by ”re-envisioning” it as the perfect monochromatic picture plane.
+Stretch’s sublime handling reminds us that Conceptualism’s dismissal of craft and the material medium (the so-called dematerialization of art) was a mistake to begin with. Not only does Stretch’s high craft correct it, but seems to demonstrate that the process of making a material painting can reflect the idea immanent in the painting by way of its own reflective character.  
+In other words, process can be a mode of deliberation as well as the means of achieving a product worth the contemplative trouble.  The process has to be reflective if the work is to rise above the mundane reality that is its point of departure, which Stretch’s transcendental paintings do. 
+
+© Donald Kuspit 2005. Winner of the prestigious Frank Jewett Mather Award for Distinction in Art Criticism(1983) given by the College Art Association, Contributing editor at Artforum,Sculpture and Tema Celeste magazines, Editor of Art Criticism, and on the advisory board of Centennial Review. Doctorates in philosophy and art history, degrees from Columbia University, Yale University, and Pennsylvania State University. Professor of Art History and Philosophy at the State University of New York at Stony Brook. Editorial advisor for European art 1900 – 50 and art criticism for the new Encyclopedia Britannica (16 th edition).
+His most recent books include, The Cult of the Avant-Garde Artist and the internationally acclaimed The End of Art.]]>
+			
+		</portraitsreview>
+	</reviews>
+	
+	<links>
+		<link image="www.edf.org/favicon.ico">www.edf.org</link>
+		<link image="www.ewg.org/favicon.ico">www.ewg.org</link>
+		<link image="www.skny.com/favicon.ico">www.skny.com</link>
+		<link image="">www.canvasbg.com</link>
+		<link image="www.pbs.org/favicon.ico">www.pbs.org/art21</link>
+		<link image="">www.smmoa.org</link>
+		<link image="www.moca.org/favicon.ico">www.moca.org</link>
+		<link image="www.pmcaonline.org/favicon.ico">www.pmcaonline.org</link>
+		<link image="">www.chocolatefurniture.com</link>
+		<link image="www.premierleague.com/favicon.ico">www.premierleague.com</link>
+		<link image="www.manutd.com/favicon.ico">www.manutd.com</link>
+		<link image="www.worldwildlife.org/favicon.ico">www.worldwildlife.org</link>
+		<link image="">www.architectureforsale.com</link>
+		<link image="www.thevalueofarchitecture.com/favicon.ico">www.thevalueofarchitecture.com</link>
+		<link image="www.factualtv.com/favicon.ico">www.factualtv.com</link>
+		<link image="">www.santedorazio.com</link>
+		<link image="">www.alanstrutt.com</link>
+		<link image="">www.elisabethgil.com</link>
+		<link image="www.taschen.com/favicon.ico">www.taschen.com</link>
+		<link image="">www.theechelonclub.com</link>
+		<link image="www.realpanther.com/favicon.ico">www.realpanther.com</link>
+		<!--<link image="">www.cailadanielle.com</link>-->
+	</links>
+	
+	<contact>
+		<text><![CDATA[<font size="20">RONI STRETCH</font><br/><br/><font size="16"><a href="mailto:ronistretch@mac.com">ronistretch@mac.com</a></font> ]]></text>
+		<btnEmail link="mailto:ronistretch@mac.com">ronistretch@mac.com</btnEmail>
+		<btnSend>send</btnSend>
+	</contact>
+	
+	<terms><![CDATA[Terms & Conditions
+This Web site, including all of its features and content (the “Web Site”) is a service made available by Roni Stretch and all content, information, services and software ordered or provided on or through this Web Site (“Content”) may be used solely under the following terms and conditions (“Terms of Use”).
+1. Web Site Limited License. As a user of this Web Site you are granted a nonexclusive, nontransferable, revocable, limited license to access and use this Web Site and Content in accordance with these Terms of Use. Provider may terminate this license at any time for any reason.
+2. Limitations on Use. The Content on this Web Site is for your personal use only and not for commercial exploitation. Nor may you use any network monitoring or discovery software to determine the site architecture, or extract information about usage, individual identities or users. You may not use any robot, spider, other automatic software or device, or manual process to monitor or copy our Web Site or the Content without Provider’s prior written permission. You may not copy, modify, reproduce, republish, distribute, display, or transmit for commercial, non-profit or public purposes all or any portion of this Web Site, except to the extent permitted above. You may not use or otherwise export or re-export this Web Site or any portion thereof, or the Content in violation of the export control laws and regulations of the United States of America. Any unauthorized use of this Web Site or its Content is prohibited.
+3. Intellectual Property Rights. Except as expressly provided in these Terms of Use, nothing contained herein shall be construed as conferring any license or right, by implication, estoppel or otherwise, under copyright or other intellectual property rights. You agree that the Content and Web Site are protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws.
+4. Digital Millennium Copyright Act – Notification of Alleged Copyright Infringement. Registered with the United States Copyright Office in accordance with the terms of the Digital Millennium Copyright Act (the "Act") and avails itself of the protections under the Act.
+5. Linking to this Web Site.  You may provide links only to the homepage of this Web Site, provided (a) you do not remove or obscure, by framing or otherwise, any portion of the homepage, including its advertisements, the terms of use, the copyright notice, or other notices on this Site, (b) you give Provider notice of such link by sending an e-mail to and (c) you discontinue providing links to this Web Site if requested by Provider. If you wish to provide links to a section within this Web Site, you should forward your request to and Provider will notify you if permission is granted, and if so the terms and conditions of the permission.
+6. Errors and Corrections. Provider does not represent or warrant that this Web Site or the Content will be error-free, free of viruses or other harmful components, or that defects will be corrected or that it will always be accessible. Provider does not warrant or represent that the Content available on or through this Web Site will be correct, accurate, timely, or otherwise reliable. Provider may make improvements and/or changes to its features, functionality or Content at any time.
+7. DISCLAIMER. THIS WEB SITE AND THE CONTENT ARE PROVIDED ON AN "AS IS, AS AVAILABLE" BASIS. PROVIDER EXPRESSLY DISCLAIMS ALL WARRANTIES, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. PROVIDER DISCLAIMS ALL RESPONSIBILITY FOR ANY LOSS, INJURY, CLAIM, LIABILITY, OR DAMAGE OF ANY KIND RESULTING FROM, ARISING OUT OF OR ANY WAY RELATED TO (A) ANY ERRORS IN OR OMISSIONS FROM THIS WEB SITE AND THE CONTENT, INCLUDING BUT NOT LIMITED TO TECHNICAL INACCURACIES AND TYPOGRAPHICAL ERRORS, (B) ANY THIRD PARTY WEB SITES OR CONTENT THEREIN DIRECTLY OR INDIRECTLY ACCESSED THROUGH LINKS IN THIS WEB SITE, INCLUDING BUT NOT LIMITED TO ANY ERRORS IN OR OMISSIONS THEREFROM, (C) THE UNAVAILABILITY OF THIS WEB SITE, THE CONTENT, OR ANY PORTION THEREOF, (D) YOUR USE OF THIS WEB SITE OR THE CONTENT, OR (E) YOUR USE OF ANY EQUIPMENT OR SOFTWARE IN CONNECTION WITH THIS WEB SITE OR THE CONTENT.
+8. LIMITATION OF LIABILITY. PROVIDER SHALL NOT BE LIABLE FOR ANY LOSS, INJURY, CLAIM, LIABILITY, OR DAMAGE OF ANY KIND RESULTING FROM YOUR USE OF THIS WEB SITE, THE CONTENT, THE INTERACTIVE AREAS OF THIS WEB SITE OR ANY FACTS OR OPINIONS APPEARING ON OR THROUGH AN INTERACTIVE AREA. PROVIDER SHALL NOT BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER (INCLUDING, WITHOUT LIMITATION, ATTORNEYS' FEES) IN ANY WAY DUE TO, RESULTING FROM, OR ARISING IN CONNECTION WITH THE USE OF OR INABILITY TO USE THIS WEB SITE OR THE CONTENT. TO THE EXTENT THE FOREGOING LIMITATION OF LIABILITY IS PROHIBITED OR FAILS OF ITS ESSENTIAL PURPOSE, PROVIDER’S SOLE OBLIGATION TO YOU FOR DAMAGES SHALL BE LIMITED TO $100.00. ]]>
+	</terms>
+	
+	<copyright><![CDATA[© 2010 Roni Stretch.      Terms & Conditions]]></copyright>
+</data>

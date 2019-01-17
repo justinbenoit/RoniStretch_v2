@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<!--<base href="C:\Users\Justin\DigitalWorks\Development\ronistretch2014\deploy\"/>-->
+    <meta http-equiv="Content-Type"content="text/html; charset=utf-8"/>
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Roni Stretch Art - Carbon</title>
+    <!-- TemplateEndEditable -->
+	<link rel="shortcut icon"href="../images/favicon.ico"> 
+    <link rel="stylesheet"type="text/css"media="all"href="../scripts/css/stylesheet.min.css"/>
+    <script src="../scripts/js/jquery/jquery-2.0.3.min.js"></script>
+    <script src="../scripts/js/jquery/jquery-ui-1.10.3/ui/minified/jquery-ui.min.js"></script>
+    <!--<script src="../../scripts/js/jquery/jquery.mobile-1.4.0.min.js"></script>
+    <script src="../../scripts/js/hammer.js-1.0.6/hammer.min.js"></script>
+    <script src="../../scripts/js/jquery/jquery.hammer.js-master/jquery.hammer.min.js"></script>-->
+    <script src="../scripts/js/jquery/jqueryMain.js"></script>
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+</head>
+<body>
+     <header id="header">
+        <div class="title">
+            <h2><a href="../" title="Roni Stretch" rel="home">RONI STRETCH</a></h2>
+        </div>
+        <nav>
+            <ul class="mainMenu">
+                <li id="worksLink" data-submenu="worksSubMenu"><a>WORKS <span class="navArrow">▼</span></a></li>
+                <li id="bioLink"><a href="../bio/">BIO</a></li>
+                <li id="contactLink"><a href="../contact/">CONTACT</a></li>
+            </ul>
+            <br />
+            <ul class="subMenu" id="worksSubMenu">
+                <li id="portraitsLink"><a href="../works/portraits/">PORTRAITS</a></li>
+                <li id="romaLink"><a href="../works/roma/">ROMA</a></li>
+                <li id="carbonLink"><a href="../works/carbon/">CARBON</a></li>
+                <li id="bigBearLink"><a href="../works/bigbear/">BIG BEAR</a></li>
+                <li id="underpaintingsLink"><a href="../works/underpaintings/">UNDER-PAINTINGS</a></li>
+                <li id="installationsLink"><a href="../works/installations/">INSTALLATIONS</a></li>
+                <li id="archiveLink"><a href="../works/archive/">ARCHIVE</a></li>
+            </ul>  			
+        </nav>
+    </header>
+    
+	<div id="headerSpacer"></div>
+	
+	<div class="contentArea">
+    	<div class="content">
+        <section class="works">
+        <div class="worksContent">
+        	<!-- TemplateBeginEditable name="contentSection" --> 
+          
+          <!-- TemplateEndEditable -->
+        </div>
+        <div class="arrow arrowLeft" title="press left arrow key">
+          <div class="arrowContent"><img src="../../images/arrowLeft.png"width="46"height="80"/></div>
+        </div>
+        <div class="arrow arrowRight" title="press right arrow key">
+          <div class="arrowContent"><img src="../../images/arrowRight.png"width="46"height="80"/></div>
+        </div>
+        <!--<div class="worksInfo">info</div>-->
+        <div class="worksThumbs">
+          <div class="worksThumbsInterior"></div>
+        </div>
+        </section> 
+		
+        </div>
+	</div>
+	
+	<div id="footerSpacer">footer spacer</div>
+    
+    <footer id="footer" class="worksFooter">
+    	<div>
+			<script>
+				var currentTime = new Date();
+				var month = currentTime.getMonth() + 1;
+				var day = currentTime.getDate();
+				var year = currentTime.getFullYear();
+				document.write("© "+ year + "Roni Stretch | ")
+			</script>
+			<a href="../terms.html"title="terms"target="_blank">Terms & Conditions</a>
+		</div>
+    </footer>
+</body>

@@ -1,0 +1,200 @@
+icons
+splash
+6. Carbon beach_Joshua tree_ LA fire#ED24
+8.Big Bear
+7.Figure photography
+9.Green center
+2.Oil on paper
+1.Paintings on canvas_ linen#220C
+5.Portrait photographs
+4.Salon
+3.Under-paintings
+filelisting.txt
+
+
+
+1.Paintings on canvas_ linen#220C\1. installation, Claritza, Catherine, Courtney,(oils on linen, all 72 x60 inches '03)..jpg
+1.Paintings on canvas_ linen#220C\2. installation, (oils on canvas '03)..jpg
+1.Paintings on canvas_ linen#220C\3. installation - (Buddha series, 60x48 inches and 52x44 inches oils on canvas '04).jpg
+1.Paintings on canvas_ linen#220C\3a. installation, (oils on linen, 60x80 inches,'03)..jpg
+1.Paintings on canvas_ linen#220C\4. Claritza, naphthol crimson, chrome orange deep(hue). oil on linen 60x56 inches '04..jpg
+1.Paintings on canvas_ linen#220C\5. Julia,chrome orange deep(hue), grey pearl.oil on canvas, 60x54 inches '05..jpg
+1.Paintings on canvas_ linen#220C\6.Mannequin, paynes grey, grey amethyst. oil on canvas 48x36 inches '02..jpg
+1.Paintings on canvas_ linen#220C\7.Mannequin, paynes grey, prussian blue, oil on canvas 48x36 inches '02..jpg
+1.Paintings on canvas_ linen#220C\8. Figure,paynes grey,orange,chrome, 34x40, oil on linen inches'08..jpg
+1.Paintings on canvas_ linen#220C\9. Figure,paynes grey pebble,oil on linen, 40x48 inches,'08.jpgf
+1.Paintings on canvas_ linen#220C\10.figure, paynes grey, pebble. Oil on canvas_linen 45x50 inches,'08#E84C.jpg
+1.Paintings on canvas_ linen#220C\11.Figure,titanium white, sage green, oil on canvas_burlap 65x68 inches.'08..jpg
+1.Paintings on canvas_ linen#220C\12.Sara, titanium white, sap green, 60x54 inches, oil on linen. '04..jpg
+1.Paintings on canvas_ linen#220C\13.Shan Buddha,titanium white,ivory.oil on canvas 50x60 inches, '08..jpg
+1.Paintings on canvas_ linen#220C\14. Ron, sap green, tapestry red. 60x48 inches '05.jpg
+1.Paintings on canvas_ linen#220C\15.Catherine, naphthol crimson, tapestry red, oil on canvas, 48x60 inches,'08
+1.Paintings on canvas_ linen#220C\16.Catherine, chrome orange (hue), paynes grey, 80x60 inches, oil on canvas_burlap,'09.#C49B.jpg
+1.Paintings on canvas_ linen#220C\17.Brandenburg, naphthol crimson, tapestry red. 40 x30 inches '06..jpg
+1.Paintings on canvas_ linen#220C\18. Brandenburg, naphthol crimson, tapestry red. 40x30 inches '06.jpg
+1.Paintings on canvas_ linen#220C\19. Brandenburg, paynes grey, plum, oil on canvas 50x50 inches'09.jpg
+1.Paintings on canvas_ linen#220C\20. Shan Buddha,raw sienna,classic burgundy, oil on canvas, 48x60 inches,'04..jpg
+1.Paintings on canvas_ linen#220C\21.shan Buddha, paynes grey, colbalt blue, oil on canvas, 48x60 inches.'09.jpg
+1.Paintings on canvas_ linen#220C\22. Hanoverian, paynes grey, vineyard. 50x50 inches '06..jpg
+1.Paintings on canvas_ linen#220C\23. Brandenburg, paynes grey, vineyard. 50x50 inches '06..jpg
+1.Paintings on canvas_ linen#220C\24. installation, (all oils on linen, 60x80 inches '03.).jpg
+
+2.Oil on paper\1.Fire, naphthol crimson, tapestry red,oil on arches 140lb cold press paper, '09..jpg
+2.Oil on paper\10. Seascape, prussian blue, coal blue. 22x16 inches oil on Arches 140lb (cold press) paper '07..jpg
+2.Oil on paper\11. Seascape, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07..jpg
+2.Oil on paper\12. Seascape, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07..jpg
+2.Oil on paper\13. Seascape, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07..jpg
+2.Oil on paper\14. JC, paynes grey, yellow ochre, 24x16 inches oil on Arches 140lb (cold press) paper '09..jpg
+2.Oil on paper\15. Fire 1, naphthol crimson, tapestry red, 24x16 inches oil on Arches 140lb (cold press) paper '09..jpg
+2.Oil on paper\16. Fire 2, naphthol crimson, tapestry red, 24x12 inches oil on Arches 140lb (cold press) paper '09..jpg
+2.Oil on paper\17. Fire, raw sienna, lamp black, 24x14 inches oil on Arches 140lb (cold press) paper '09..jpg
+2.Oil on paper\18. Brandenburg,prussian blue, coal blue. 241_2x16 inches oil on Arches 140lb (cold press) paper '06..jpg
+2.Oil on paper\19. Hanoverian, prussian blue, coal blue. 291_4x371_2 inches oil on Arches 140lb (cold press) paper '06.#E176.jpg
+2.Oil on paper\1a. Arnaud, prussian blue, cheboyaan blue. 24x16 inches oil on Arches 140lb cold press paper '07..jpg
+2.Oil on paper\2. Claritza, prussian blue, lamp black. 24x16 inches oil on Arches 140lb (cold press) paper '02..jpg
+2.Oil on paper\2a. Claritza, titanium white, lamp black. 24x16 inches oil on Arches 140lb (cold press) paper '04..jpg
+2.Oil on paper\3. Matt, prussian blue, lamp black. 16x12 inches oil on Arches 140lb (cold press) paper '09..jpg
+2.Oil on paper\4. Sara,prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07..jpg
+2.Oil on paper\5. Sara, prussian blue, coal blue. 24x14 inches oil on Arches 140lb (cold press) paper '07..jpg
+2.Oil on paper\7. WC, prussian blue, lamp black. 24x16 inches oil on Arches 140lb (cold press) paper '09..jpg
+2.Oil on paper\8. Shan Buddha, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '08..jpg
+2.Oil on paper\9. Seascape, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '07..jpg
+2.Oil on paper\20. Figure, prussian blue, burnt umber. 24x16 inches oil on Arches 140lb (cold press) paper '09..jpg
+2.Oil on paper\21. Figure, prussian blue, lamp black. 24x16 inches oil on Arches 140lb (cold press) paper '09..jpg
+2.Oil on paper\6. Daisy, prussian blue, coal blue. 24x16 inches oil on Arches 140lb (cold press) paper '09..jpg
+
+3.Under-paintings\1. studio, works in progress '07.jpg
+3.Under-paintings\10. Charlotte, underpainting oil on canvas 18x22 inches '09..jpg
+3.Under-paintings\11. Phoebe, underpainting oil on canvas 18x22 inches '09..jpg
+3.Under-paintings\12. Callum, underpainting oil on canvas 16x20 inches '04..jpg
+3.Under-paintings\13. Jaime, underpainting oil on canvas 16x20 inches '08..jpg
+3.Under-paintings\14. George, underpainting oil_pastel on paper 16x20 inches '08.#551B.jpg
+3.Under-paintings\15.Gary, Tiffany, Sara oil_pastel on paper 14x20 inches '07#A5E9.jpg
+3.Under-paintings\16.Gary, 14x20 inches pastel_oil on paper '07#B2EE.jpg
+3.Under-paintings\17.Lucas and Carlie, oil on canvas, studio._09#B73D.jpg
+3.Under-paintings\18.Phoebe and charlotte, oil on canvas, studio, '09.jpg
+3.Under-paintings\2.Ron, underpainting oil on canvas, 48x60 inches,'04..jpg
+3.Under-paintings\4.Mannequin,  underpainting oil on canvas 16x20 inches '03..jpg
+3.Under-paintings\5. Mannequin, underpainting oil on canvas 16x20 inches '03..jpg
+3.Under-paintings\6. Richard,  underpainting oil on canvas 16x20 inches '05..jpg
+3.Under-paintings\7. Ron, underpainting oil on canvas 20x24 inches '04..jpg
+3.Under-paintings\8. Lucas, underpainting oil on canvas 20x22 inches '09..jpg
+3.Under-paintings\9. Carlie, underpainting oil on canvas 20x22 inches '09..jpg
+3.Under-paintings\3.Mannequin, underpainting oil on canvas 16x20 inches '03..jpg
+
+4.Salon\16.Kitchen (for Ira,book illustration.) oil on 140lb arches paper, 16x20 inches, 2009#992E.jpg
+4.Salon\12.Clouds(for Ira,book illustration.) oil on 140lb arches paper, 16x20 inches, 2009#A894.jpg
+4.Salon\13.Clouds 2(for Ira,book illustration.) oil on 140lb arches paper, 16x20 inches, 2009#D198.jpg
+4.Salon\14.Clouds(for Ira,book illustration.) oil on 140lb arches paper, 16x20 inches,2009#E63A.jpg
+4.Salon\1. Gary's Titles, oil on canvas, 1992..jpg
+4.Salon\10.Untitled, oil on canvas, 16x20 inches, 1985..jpg
+4.Salon\11. Willow,(Book Illustration) 24x16 inches oil on Arches 140lb (cold press) paper 2009..jpg
+4.Salon\15. Ira, (for Ira book Illustration) 24x16 inches oil on Arches 140lb (cold press) paper, 2009..jpg
+4.Salon\17. Picnic, (for Ira book Illustration) 24x16 inches oil on Arches 140lb (cold press) paper 2009..jpg
+4.Salon\18. Ira 2, (for Ira book Illustration) 24x16 inches oil on Arches 140lb (cold press) paper 2009..jpg
+4.Salon\19. Prison bars, (for Ira book Illustration) 24x16 inches, graphite on Arches 140lb (cold press) paper 2009..jpg
+4.Salon\2. Matt's docs, oil on canvas, 2008.jpg
+4.Salon\3. 1910 boots, oil on canvas, 1993..jpg
+4.Salon\4.Elvgren's girl, oil on canvas, 1999..jpg
+4.Salon\5. Frame, oil on canvas, 2008..jpg
+4.Salon\6. standing blue figure, oil on canvas, 1993..jpg
+4.Salon\7.Box no.4, oil on canvas, 1999..jpg
+4.Salon\8. cover girl, oil on canvas, 2002..jpg
+4.Salon\9. 1932 basketball, oil on canvas, 2009..jpg
+
+5.Portrait photographs\1.jpgfany _studio.jpg
+5.Portrait photographs\arnauld, archival pigment print, 30x40 inches, '04..jpg
+5.Portrait photographs\catherine archival pigment print, 48x60 inches, '05..jpg
+5.Portrait photographs\claritza, archival pigment print, 48x60 inches, '04..jpg
+5.Portrait photographs\daisy, archival pigment print, 36x48 inches, '08..jpg
+5.Portrait photographs\dalee, archival pigment print, 36x48 inches, '08..jpg
+5.Portrait photographs\fabiana , archival pigment print, 48x60 inches '07..jpg
+5.Portrait photographs\gary, archival pigment print, 48x60 inches, '06..jpg
+5.Portrait photographs\jaime, archival pigment print, 48x60 inches, '08..jpg
+5.Portrait photographs\jp, archival pigment print, 48x60 inches, '04..jpg
+5.Portrait photographs\julia, archival pigment print, 48x60 inches, '04..jpg
+5.Portrait photographs\martyn, archival pigment print, 36x48 inches, '08..jpg
+5.Portrait photographs\matt, archival pigment print, 36x48 inches, '08..jpg
+5.Portrait photographs\richard, archival pigment print, 30x40 inches, '05..jpg
+5.Portrait photographs\robin, archival pigment print, 48x60 inches, '08..jpg
+5.Portrait photographs\ron, archival pigment print, 30x40 inches, '06..jpg
+5.Portrait photographs\samantha, archival pigment print, 30x40 inches, '09..jpg
+5.Portrait photographs\sammy, archival pigment print, 30x40inches, '09..jpg
+5.Portrait photographs\sara, archival pigment print, 48x60 inches, '05..jpg
+5.Portrait photographs\tiffany, archival pigment print, 48x60 inches, '04..jpg
+
+6. Carbon beach_Joshua tree_ LA fire#ED24\1.Carbon beach no.1, archive pigment print, 36x48, edition 11, '02..jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\10. Joshua tree no.11, archival pigment print, 24x 60 inches, edition of 11, '92..jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\11. Joshua tree no.12, archival pigment print, 24x 60 inches, edition of 11, '92..jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\12. Joshua tree no.15, archival pigment print, 24x 40 inches, edition of 11, '92..jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\13. Joshua tree no.19, archival pigment print, 24x 50 inches, edition of 11, '92.jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\14. Joshua tree no.22, archival pigment print, 24x 50 inches, edition of 11, '92..jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\15. Joshua tree no.29, archival pigment print, 16x60 inches, edition of 11, '92.jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\16.Fire no.3, archival pigment print, 48x20 inches, edition of 11, '94..jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\17. Fire no.11, archival pigment print, 20x48 inches, edition of 11, '94..jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\18. Fire no.6, archival pigment print, 20x48 inches, edition of 11, '94..jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\19. Fire no.20, archival pigment print, 42x48 inches, edition of 11, '94..jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\2.Carbon beach no.2, archive pigment print, 36 x48 inches, edition 11, '02.jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\3.Carbon beach no.3, archive pigment print, 36x54 inches, edition 11, '02.jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\4.Carbon beach no.4 archival pigment print, 48x60 inches, edition of 11, '02..jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\5..Carbon beach no.4 archival pigment print, 48x60 inches, edition of 11, '02.jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\6.Carbon beach no.4 archival pigment print, 48x60 inches, edition of 11, '02.jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\7. Joshua tree no.1, archival pigment print, 24x 60 inches, edition of 11, '92..jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\8. Joshua tree no.2, archival pigment print, 24x 60 inches, edition of 11, '92..jpg
+6. Carbon beach_Joshua tree_ LA fire#ED24\9. Joshua tree no.6, archival pigment print, 20x 50 inches, edition of 11, '92..jpg
+
+7.Figure photography\1. studio,'08 .jpg
+7.Figure photography\10.figure no.28, archival pigment print, 20x40 inches, edition of 11, '08.jpg
+7.Figure photography\11.figure no.20, archival pigment print, 30x40 inches, edition of 11, '08..jpg
+7.Figure photography\2.figure no.2, archival pigment print, 34x40 inches, edition of 11, '08.jpg
+7.Figure photography\3.figure no.3, archival pigment print, 30x40 inches, edition of 11, '08.jpg
+7.Figure photography\4.figure no.4, archival pigment print, 34x40 inches, edition of 11, '08.jpg
+7.Figure photography\5.figure no.7, archival pigment print, 34x40 inches, edition of 11, '08.jpg
+7.Figure photography\6.figure no.11, archival pigment print, 34x40 inches, edition of 11, '08.jpg
+7.Figure photography\7.figure no.16, archival pigment print, 28x40 inches, edition of 11, '08..jpg
+7.Figure photography\8.figure no.18, archival pigment print, 30x40 inches, edition of 11, '08..jpg
+7.Figure photography\9.figure no.19, archival pigment print, 30x40 inches, edition of 11, '08..jpg
+
+8.Big Bear\1.big bear explanation
+8.Big Bear\1.big bear,paynes grey, lamp black no.1, oil on canvas, 48x60 inches, '00 ..jpg
+8.Big Bear\10.big bear, paynes grey, lamp black no.18, oil on canvas, 55x60 inches, '02..jpg
+8.Big Bear\11.big bear, paynes grey, lamp black no. 20 oil on canvas, 48x60 inches, '02..jpg
+8.Big Bear\12.big bear, paynes grey, lamp black no.36, oil on canvas, 48x60 inches, '04..jpg
+8.Big Bear\13.big bear,paynes grey, lamp black no. 60 , oil on canvas, 50x70 inches, '07..jpg
+8.Big Bear\14.big bear, paynes grey, lamp black no.62, oil on canvas, 50x70 inches,'07..jpg
+8.Big Bear\15.big bear, paynes grey, lamp black no.63, oil on canvas, 50x70 inches,'07..jpg
+8.Big Bear\16.big bear, paynes grey, lamp black no.64, oil on canvas, 50x70 inches, '07..jpg
+8.Big Bear\17.big bear, paynes grey, lamp black no. 65, oil on canvas, 48x70 inches, '07..jpg
+8.Big Bear\18.big bear, paynes grey, lamp black no.69, oil on canvas, 48x70 inches,'08.jpg
+8.Big Bear\19.big bear, paynes grey, lamp black no.70, oil on canvas, 48x60 inches,'08..jpg
+8.Big Bear\2.big bear,raw sienna. lamp black no.3, oil on canvas, 48x60 inches, '00..jpg
+8.Big Bear\3.big bear, raw sienna, lamp black no.4, oil on canvas, 48x60 inches, '00..jpg
+8.Big Bear\4.big bear, paynes grey, lamp black no.6,oil on canvas, 48x60 inches,'00..jpg
+8.Big Bear\5.big bear,paynes grey, lamp black no.7, oil on canvas, 48x60 inches, '01..jpg
+8.Big Bear\6.big bear,paynes grey, lamp black no.10, oil on canvas, 48x60 inches,'01..jpg
+8.Big Bear\7.big bear, paynes grey, lamp black no.13, oil on canvas, 48x60 inches, '01..jpg
+8.Big Bear\8.big bear,paynes grey, raw sienna no.16, oil on canvas, 48x70 inches,'02.jpg
+8.Big Bear\9.big bear, paynes grey, lamp black no. 17, oil on canvas, 48x70 inches, '02.jpg
+
+9.Green center\4. Whale_whaling ship, paynes grey, titanium white, oil on linen 48x60 inches '09#52A6
+9.Green center\drunken tree catalog.doc
+9.Green center\drunken tree company web.doc
+9.Green center\green symbol.jpeg
+9.Green center\1. Bear_factory, paynes grey, titanium white, oil on linen 48x48 inches '09.#B081.jpg
+9.Green center\10. Turbine no.5, 24x18 inches, graphite and pastel on acrylic stained Arches 140lb (cold press) paper '09..jpg
+9.Green center\11. Turbine no.6, 24x16 inches, graphite and pastel on acrylic stained Arches 140lb (cold press) paper '09..jpg
+9.Green center\12. Bamboo no.12, archival pigment print (soy based),30x40 inches, edition of 19, printed on 290gsm bamboo paper '10.jpg
+9.Green center\13. Bamboo no.12, archival pigment print,(soy based) 30x40 inches, edition of 19, printed on 290gsm bamboo paper '10.jpg
+9.Green center\14. Cherry Blossom, archival pigment print (soy based),30x40 inches, edition of 19, printed on 290gsm bamboo paper '10.jpg
+9.Green center\15. Cherry blossom, no.2, archival pigment print, 30x40 inches, edition of 11, '08.jpg
+9.Green center\16, Fire, paynes grey, lamp black, 24x16 inches, oil on Arches 140lb (cold press) paper '09..jpg
+9.Green center\17, Fire, paynes grey, lamp black no.2, 20x16 inches, oil on Arches 140lb (cold press) paper '09..jpg
+9.Green center\18. DT no.1, archival pigment print (soy based), 30x40 inches, edition of 19, printed on 290gsm bamboo paper '10.jpg
+9.Green center\19. DT no.2, archival pigment print (soy based), 30x40 inches, edition of 19, printed on 290gsm bamboo paper '10.jpg
+9.Green center\2. Penguin_factory, paynes grey, titanium white, oil on canvas 20x48 inches '09.#FC33.jpg
+9.Green center\3.Paradise landfill, sap green, cobalt blue. oil on canvas, 36x48 inches, '08.jpg
+9.Green center\5. Penguin_factory, paynes grey, burnt umber, oil on canvas, 27x48 inches '09.#BA34.jpg
+9.Green center\6. Turbine no.1, archival pigment print (soy based),18x24 inches, edition of 19, printed on 290gsm bamboo paper '10.jpg
+9.Green center\7. Turbine no.2, archival pigment print (soy based),18x24 inches, edition of 19, printed on 290gsm bamboo paper '10.jpg
+9.Green center\8. Turbine no.3, archival pigment print (soy based),18x24 inches, edition of 19, printed on 290gsm bamboo paper '10.jpg
+9.Green center\9. Turbine no.4, 24x16 inches, graphite and pastel on tea stained Arches 140lb (cold press) paper '09..jpg
